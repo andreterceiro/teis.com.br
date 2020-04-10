@@ -68,7 +68,7 @@
 					<div class="row">
 						<div class="col-md-12 animate-box">
 							<div class="row" style="font-family: Roboto, Arial, sans-serif !important">
-								O professor Juninho segue um ritmo interessante de aula. O professor Anderson Teis é um dos alunos. O professor gosta de, quando necessário, conversar bastante com os alunos. Uma interessante aula!
+								O professor Guilhotina segue um ritmo interessante de aula. O professor Anderson Teis é um dos alunos. Uma interessante aula!
 							</div>
 						</div>
 					</div>
@@ -80,8 +80,7 @@
 				<li><img src="images/jiu-jitsu/jiu1.jpg"/></li>
 				<li><img src="images/jiu-jitsu/jiu2.jpg"/></li>
 				<li><img src="images/jiu-jitsu/jiu3.jpg"/></li>
-				<li><img src="images/jiu-jitsu/jiu6.jpg"/></li>				
-				<li><img src="images/jiu-jitsu/jiu7.jpg"/></li>				
+				<li><img src="images/jiu-jitsu/jiu6.jpg"/></li>						
 			</ul>
 		</div>
 

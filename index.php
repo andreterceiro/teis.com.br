@@ -209,13 +209,13 @@
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6">
-						<div class="team-section-grid animate-box" style="background-image: url(images/juninho-ataliba.jpg);">
+						<div class="team-section-grid animate-box" style="background-image: url(images/guilhotina.jpg);">
 							<div class="overlay-section">
 								<div class="desc">
-									<h3>Juninho Ataliba</h3>
-									<p>O professor Juninho Ataliba comanda nossa aula de Jiu-Jitsu, sempre no ritmo do aluno</p>
+									<h3>Paulo Sanchez (Guilhotina)</h3>
+									<p>O professor Guilhotina comanda nossa aula de Jiu-Jitsu, sempre no ritmo do aluno</p>
 									<p class="fh5co-social-icons">
-										<a href="https://www.facebook.com/franciscochagasataliba.junior.31"><i class="icon-facebook-with-circle"></i></a>
+										<a href="https://www.facebook.com/paulo.sanchez120"><i class="icon-facebook-with-circle"></i></a>
 									</p>
 								</div>
 							</div>
@@ -249,7 +249,7 @@
 						<div class="price-box animate-box">
 							<h2 class="pricing-plan">1 modalidade</h2>
 							<div class="price"><sup class="currency">$</sup>120,00<small>/mês</small></div>
-							<p>Neste plano você escolhe 1 modalidade. Muay Thai e Jiu-Jitsu por R$89,99 por mês</p>
+							<p>Neste plano você escolhe 1 modalidade. Muay Thai e Jiu-Jitsu por R$89,99 por mês. De R$120,00 por R$599,00 no plano semestral.</p>
 						</div>
 					</div>
 
