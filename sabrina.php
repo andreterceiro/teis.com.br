@@ -71,7 +71,6 @@
 							<div class="row" style="font-family: Roboto, Arial, sans-serif !important">
 								A Sabrina é um dos nossos principais projetos atualmente. Ela é uma exímia lutadora de Taekwondo, que irá para Coréia defender o Brasil. Tudo dando certo, ela irá para a próxima Olimpíada! Ela é filha do mestre Marcos Teis.
 								Claro que deixar a academia impecável para os treinos e o bem estar dos nossos alunos é importante. Mas isto fazemos naturalmente. Digo, o mestre faz :)
-								Devido os gastos que teremos, apesar de algumas ajudas, não conseguimos arcar com todas as despesas . Sendo assim <a href="https://www.kickante.com.br/campanhas/sabrina-na-coreia" target="_blank">fizemos uma campanha</a> no Kickante para tentar arrecadar o resto.
 								A Sabrina existe, não é um golpe. Abaixo algumas fotos dela:
 							</div>
 						</div>
