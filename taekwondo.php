@@ -101,6 +101,7 @@
 	<div id="ytplayer5"></div><br />
 	<div id="ytplayer6"></div><br />
 	<div id="ytplayer7"></div><br />
+	<div id="ytplayer8"></div><br />
 			
 	<script>
 		// Load the IFrame Player API code asynchronously.
@@ -153,6 +154,12 @@
 			height: '360',
 			width: '640',
 			videoId: 'H10D_yQ5Jvg'
+			});
+			
+			player8 = new YT.Player('ytplayer8', {
+			height: '360',
+			width: '640',
+			videoId: '5barNBg3Yd8'
 			});
 		}
 	</script>
