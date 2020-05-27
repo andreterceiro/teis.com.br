@@ -18,5 +18,6 @@
 								<li><a href="sabrina.php">Sabrina</a></li>
 								<li><a href="perda-de-peso.php">Perda de peso</a></li>
 								<li><a href="idade-limite.php">Idade limite</a></li>
+								<li><a href="videos.php">Vídeos</a></li>
 								<li><a href="contato.php">Contato</a></li>
 							</ul>
