@@ -1386,3 +1386,7 @@ figure {
 }
 
 /*# sourceMappingURL=style.css.map */
+marquee a{
+    font-size: 25px;
+    color: #FF0000;
+}
