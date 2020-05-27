@@ -1390,3 +1390,15 @@ marquee a{
     font-size: 25px;
     color: #FF0000;
 }
+
+.roundabout-prev {
+	border: 26px solid #880000;
+	background-color: #880000 !important;
+}
+
+.roundabout-next {
+	border: 40px solid #880000;
+	background-color: #880000 !important;
+	border-right: 26px !important;
+	
+}

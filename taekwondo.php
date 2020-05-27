@@ -40,7 +40,7 @@
 				<div class="container">
 					<div class="nav-header">
 						<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
-						<h1><a href="index.php"><img  <?php if ($firefox && !$mobíle) { echo 'style="margin-left: -500px "' ;} elseif(! $mobile) { echo 'style="margin-left: -800px "' ;} ?> src="images/logo2.png" /></a></h1>
+						<h1><a href="index.php"><img  <?php if ($firefox && !$mobile) { echo 'style="margin-left: -500px "' ;} elseif(! $mobile) { echo 'style="margin-left: -800px "' ;} ?> src="images/logo2.png" /></a></h1>
 						<!-- START #fh5co-menu-wrap -->
 						<nav id="fh5co-menu-wrap" role="navigation">
 							<?php require_once("menu.php"); ?>
@@ -77,94 +77,189 @@
 		
 		<div class="slider">
 			<ul>
-		    	<li><img src="images/taekwondo/taekwondo9.jpg"/></li>
-				<li><img src="images/taekwondo/ney.jpg"/></li>
-				<li><img src="images/taekwondo/time.jpg"/></li>
-				<li><img src="images/taekwondo/time2.jpg"/></li>
-				<li><img src="images/taekwondo/time4.jpg"/></li>
-				<li><img src="images/taekwondo/sabrina.jpg"/></li>
-				<li><img src="images/taekwondo/time3.jpg"/></li>
-				<li><img src="images/taekwondo/aniversario1.jpg"/></li>
-				<li><img src="images/taekwondo/aniversario2.jpg"/></li>
-				<li><img src="images/taekwondo/marcao2.jpg"/></li>
-				<!--<li><img src="images/taekwondo/gui1.jpg"/></li>-->
-				<li><img src="images/taekwondo/campeonato1.jpg"/></li>
-				<li><img src="images/taekwondo/time5.jpg"/></li>
-				<li><img src="images/taekwondo/medalhas.jpg"/></li>
+		    	<li><img src="images/taekwondo/taekwondo9.jpeg"/></li>
+				<li><img src="images/taekwondo/ney.jpeg"/></li>
+				<li><img src="images/taekwondo/time.jpeg"/></li>
+				<li><img src="images/taekwondo/time2.jpeg"/></li>
+				<li><img src="images/taekwondo/time4.jpeg"/></li>
+				<li><img src="images/taekwondo/sabrina.jpeg"/></li>
+				<li><img src="images/taekwondo/time3.jpeg"/></li>
+				<li><img src="images/taekwondo/aniversario1.jpeg"/></li>
+				<li><img src="images/taekwondo/aniversario2.jpeg"/></li>
+				<li><img src="images/taekwondo/marcao2.jpeg"/></li>
+				<li><img src="images/taekwondo/campeonato1.jpeg"/></li>
+				<li><img src="images/taekwondo/time5.jpeg"/></li>
+				<li><img src="images/taekwondo/medalhas.jpeg"/></li>
+				<li><img src="images/taekwondo/criancas1.jpeg"/></li>
+				<li><img src="images/taekwondo/decathlon1.jpeg"/></li>
+				<li><img src="images/taekwondo/familia1.jpeg"/></li>
+				<li><img src="images/taekwondo/jornal1.jpeg"/></li>
+				<li><img src="images/taekwondo/ney2.jpeg"/></li>
+				<li><img src="images/taekwondo/time5.jpeg"/></li>
+				<li><img src="images/taekwondo/time6.jpeg"/></li>
+				<li><img src="images/taekwondo/time7.jpeg"/></li>
+				<li><img src="images/taekwondo/time8.jpeg"/></li>
+				<li><img src="images/taekwondo/time10.jpeg"/></li>
+				<li><img src="images/taekwondo/time11.jpeg"/></li>
+				<li><img src="images/taekwondo/time13.jpeg"/></li>
+				<li><img src="images/taekwondo/trofeus1.jpeg"/></li>								
+			</ul>
+		</div>
+		
+		<div class="slider">
+			<ul>
+				<li><img src="images/taekwondo/gui1.jpeg"/></li>
+				<li><img src="images/taekwondo/marcao3.jpeg"/></li>				
+				<li><img src="images/taekwondo/marcao4.jpeg"/></li>				
+				<li><img src="images/taekwondo/marcao-e-crianca1.jpeg"/></li>
+				<li><img src="images/taekwondo/mauricio1.jpeg"/></li>
+				<li><img src="images/taekwondo/time9.jpeg"/></li>
+
 			</ul>
 		</div>
 
-	<div id="ytplayer"></div><br />
-	<div id="ytplayer2"></div><br />
-	<div id="ytplayer3"></div><br />
-	<div id="ytplayer4"></div><br />
-	<div id="ytplayer5"></div><br />
-	<div id="ytplayer6"></div><br />
-	<div id="ytplayer7"></div><br />
-	<div id="ytplayer8"></div><br />
-			
-	<script>
-		// Load the IFrame Player API code asynchronously.
-		var tag = document.createElement('script');
-		tag.src = "https://www.youtube.com/player_api";
-		var firstScriptTag = document.getElementsByTagName('script')[0];
-		firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+		<div id="ytplayer"></div><br />
+		<div id="ytplayer2"></div><br />
+		<div id="ytplayer3"></div><br />
+		<div id="ytplayer4"></div><br />
+		<div id="ytplayer5"></div><br />
+		<div id="ytplayer6"></div><br />
+		<div id="ytplayer7"></div><br />
+		<div id="ytplayer8"></div><br />
+		<div id="ytplayer9"></div><br />
+		<div id="ytplayer10"></div><br />
+		<div id="ytplayer11"></div><br />
+		<div id="ytplayer12"></div><br />
+		<div id="ytplayer13"></div><br />
+		<div id="ytplayer14"></div><br />
+		<div id="ytplayer15"></div><br />
+		<div id="ytplayer16"></div><br />
+		<div id="ytplayer17"></div><br />			
+		<div id="ytplayer18"></div><br />
+		
+		<script>
+			// Load the IFrame Player API code asynchronously.
+			var tag = document.createElement('script');
+			tag.src = "https://www.youtube.com/player_api";
+			var firstScriptTag = document.getElementsByTagName('script')[0];
+			firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
-		// Replace the 'ytplayer' element with an <iframe> and
-		// YouTube player after the API code downloads.
-		var player;
-		function onYouTubePlayerAPIReady() {
-			player = new YT.Player('ytplayer', {
-			height: '360',
-			width: '640',
-			videoId: 'VmGozizMsxQ'
-			});
-			
-			player2 = new YT.Player('ytplayer2', {
-			height: '360',
-			width: '640',
-			videoId: 'dtel_jMbFiQ'
-			});
+			// Replace the 'ytplayer' element with an <iframe> and
+			// YouTube player after the API code downloads.
+			var player;
+			function onYouTubePlayerAPIReady() {
+				player = new YT.Player('ytplayer', {
+				height: '360',
+				width: '640',
+				videoId: 'VmGozizMsxQ'
+				});
+				
+				player2 = new YT.Player('ytplayer2', {
+				height: '360',
+				width: '640',
+				videoId: 'dtel_jMbFiQ'
+				});
 
-			player3 = new YT.Player('ytplayer3', {
-			height: '360',
-			width: '640',
-			videoId: 'UIJ5d73ZNhk'
-			});
+				player3 = new YT.Player('ytplayer3', {
+				height: '360',
+				width: '640',
+				videoId: 'UIJ5d73ZNhk'
+				});
 
-			player4 = new YT.Player('ytplayer4', {
-			height: '360',
-			width: '640',
-			videoId: 'iRb0aqNQreo'
-			});
+				player4 = new YT.Player('ytplayer4', {
+				height: '360',
+				width: '640',
+				videoId: 'iRb0aqNQreo'
+				});
 
-			player5 = new YT.Player('ytplayer5', {
-			height: '360',
-			width: '640',
-			videoId: '-bdzb7vJ-7M'
-			});
-			
-			player6 = new YT.Player('ytplayer6', {
-			height: '360',
-			width: '640',
-			videoId: '2I6xYqKA4Cs'
-			});
-			
-			player7 = new YT.Player('ytplayer7', {
-			height: '360',
-			width: '640',
-			videoId: 'H10D_yQ5Jvg'
-			});
-			
-			player8 = new YT.Player('ytplayer8', {
-			height: '360',
-			width: '640',
-			videoId: '5barNBg3Yd8'
-			});
-		}
-	</script>
-<br /><br />
-	
+				player5 = new YT.Player('ytplayer5', {
+				height: '360',
+				width: '640',
+				videoId: '-bdzb7vJ-7M'
+				});
+				
+				player6 = new YT.Player('ytplayer6', {
+				height: '360',
+				width: '640',
+				videoId: '2I6xYqKA4Cs'
+				});
+				
+				player7 = new YT.Player('ytplayer7', {
+				height: '360',
+				width: '640',
+				videoId: 'H10D_yQ5Jvg'
+				});
+				
+				player8 = new YT.Player('ytplayer8', {
+				height: '360',
+				width: '640',
+				videoId: '5barNBg3Yd8'
+				});
+				
+				player9 = new YT.Player('ytplayer9', {
+				height: '360',
+				width: '640',
+				videoId: 'UUQ7cTMV_Bs'
+				});
+				
+				player10 = new YT.Player('ytplayer10', {
+				height: '360',
+				width: '640',
+				videoId: 'sjj2P_pYQLI'
+				});
+				
+				player11 = new YT.Player('ytplayer11', {
+				height: '360',
+				width: '640',
+				videoId: 'lqu2JsYDMxU'
+				});
+				
+				player12 = new YT.Player('ytplayer12', {
+				height: '360',
+				width: '640',
+				videoId: 'hLT9sC3h_gc'
+				});
+				
+				player13 = new YT.Player('ytplayer13', {
+				height: '360',
+				width: '640',
+				videoId: 'EOV7NminOsc'
+				});
+
+				player14 = new YT.Player('ytplayer14', {
+				height: '360',
+				width: '640',
+				
+				videoId: 'eLATk5lLzE8'
+				});
+
+				player15 = new YT.Player('ytplayer15', {
+				height: '360',
+				width: '640',
+				videoId: 'IGMsQHEa6R0'
+				});
+
+				player16 = new YT.Player('ytplayer16', {
+				height: '360',
+				width: '640',
+				videoId: 'NJKQSSfacyo'
+				});
+
+				player17 = new YT.Player('ytplayer17', {
+				height: '360',
+				width: '640',
+				videoId: 'csRg5VeCrR8'
+				});
+
+				player18 = new YT.Player('ytplayer18', {
+				height: '360',
+				width: '640',
+				videoId: 'hLT9sC3h_gc'
+				});
+			}
+		</script>
+		
+		<br /><br />
 		
 		<!-- END fh5co-contact -->
 		<footer>
