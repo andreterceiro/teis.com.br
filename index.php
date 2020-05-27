@@ -57,7 +57,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-7">
-								<h2>A academia Teis é um ambiente familiar, onde nunca nos machucamos, e treinamos artes marciais</h2>
+								<h2>A academia Teis é um ambiente familiar, onde treinamos artes marciais, com o ojetivo de formar campeões na vida e nos esportes</h2>
 							</div>
 						</div>
 					</div>
@@ -65,6 +65,7 @@
 			</div>
 		</div>
 		<!-- end:fh5co-hero -->
+                <marquee><a href="live.php">Live no Facebook</a></marquee>
 		<div id="fh5co-schedule-section" class="fh5co-lightgray-section">
 			<div class="container">
 				<div class="row">
