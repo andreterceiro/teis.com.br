@@ -65,6 +65,7 @@
 			</div>
 		</div>
 		<!-- end:fh5co-hero -->
+                <marquee><a href="live.php">Live no Facebook</a></marquee>
 		<div id="fh5co-schedule-section" class="fh5co-lightgray-section">
 			<div class="container">
 				<div class="row">

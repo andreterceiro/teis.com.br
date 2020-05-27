@@ -2,6 +2,7 @@
 								<li>
 									<a href="index.php">Home</a>
 								</li>
+								<li><a href="live.php">Live</a></li>
 								<li>
 									<a href="#" class="fh5co-sub-ddown">Aulas</a>
 									 <ul class="fh5co-sub-menu">
