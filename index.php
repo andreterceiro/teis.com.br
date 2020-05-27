@@ -40,7 +40,7 @@
 				<div class="container">
 					<div class="nav-header">
 						<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
-						<h1><a href="index.php"><img  <?php if ($firefox && !$mobíle) { echo 'style="margin-left: -500px "' ;} elseif(! $mobile) { echo 'style="margin-left: -800px "' ;} ?> src="images/logo2.png" /></a></h1>
+						<h1><a href="index.php"><img  <?php if ($firefox && !$mobile) { echo 'style="margin-left: -500px "' ;} elseif(! $mobile) { echo 'style="margin-left: -800px "' ;} ?> src="images/logo2.png" /></a></h1>
 						<!-- START #fh5co-menu-wrap -->
 						<nav id="fh5co-menu-wrap" role="navigation">
 							<?php require_once("menu.php"); ?>
@@ -272,7 +272,7 @@
 					<div class="row">
 						<div class="col-md-4 animate-box">
 							<h3 class="section-title">Sobre nós</h3>
-							<p>Na academia Teis gostamos de nos divertir e treinar. Vamos no seu ritmo. E buscamos os resultados que quer. Estamos póximos ao Shopping Anália Franco e a escola Kennedy, na Vila Formosa, zona leste de São Paulo.</p>
+							<p>Na academia Teis gostamos de nos divertir e treinar. Vamos no seu ritmo. E buscamos os resultados que quer. Estamos próximos ao Shopping Anália Franco e a escola Kennedy, na Vila Formosa, zona leste de São Paulo.</p>
 						</div>
 
 						<div class="col-md-4 animate-box">
