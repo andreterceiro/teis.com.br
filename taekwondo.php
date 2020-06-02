@@ -77,7 +77,7 @@
 		
 		<div class="slider">
 			<ul>
-		    	<li><img src="images/taekwondo/taekwondo9.jpeg"/></li>
+		    		<li><img src="images/taekwondo/taekwondo9.jpeg"/></li>
 				<li><img src="images/taekwondo/ney.jpeg"/></li>
 				<li><img src="images/taekwondo/time.jpeg"/></li>
 				<li><img src="images/taekwondo/time2.jpeg"/></li>
@@ -103,6 +103,7 @@
 				<li><img src="images/taekwondo/time11.jpeg"/></li>
 				<li><img src="images/taekwondo/time13.jpeg"/></li>
 				<li><img src="images/taekwondo/trofeus1.jpeg"/></li>								
+				<li><img src="images/taekwondo/luizinha1.jpeg"/></li>								
 			</ul>
 		</div>
 		
@@ -139,6 +140,7 @@
 		<div id="ytplayer19"></div><br />
 		<div id="ytplayer20"></div><br />
 		<div id="ytplayer21"></div><br />
+		<div id="ytplayer22"></div><br />
 		
 		<script>
 			// Load the IFrame Player API code asynchronously.
@@ -272,10 +274,16 @@
 				videoId: 'ZpWyeMDgmL0'
 				});
 				
-				player20 = new YT.Player('ytplayer21', {
+				player21 = new YT.Player('ytplayer21', {
 				height: '360',
 				width: '640',
-				videoId: 'pULgCVD_Mzw'
+				videoId: 'gOUy_6MUYxg'
+				});
+
+				player22 = new YT.Player('ytplayer22', {
+				height: '360',
+				width: '640',
+				videoId: 'fnHLrLo5ZY0'
 				});
 			}
 		</script>
