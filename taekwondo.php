@@ -141,6 +141,7 @@
 		<div id="ytplayer20"></div><br />
 		<div id="ytplayer21"></div><br />
 		<div id="ytplayer22"></div><br />
+		<div id="ytplayer23"></div><br />
 		
 		<script>
 			// Load the IFrame Player API code asynchronously.
@@ -285,6 +286,12 @@
 				width: '640',
 				videoId: 'fnHLrLo5ZY0'
 				});
+
+				player23 = new YT.Player('ytplayer23', {
+				height: '360',
+				width: '640',
+				videoId: 'WPsMBtpEZWg'
+				});
 			}
 		</script>
 		
@@ -307,19 +314,19 @@
 	</div>
 	<!-- END fh5co-wrapper -->
 	<?php require_once("javascript.php"); ?>
-		<script>
-			$('.slider').carousel({dots: true, infinite: true, speed: 200});
-		</script>
-		
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143754760-1"></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
+	<script>
+		$('.slider').carousel({dots: true, infinite: true, speed: 200});
+	</script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143754760-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
 
-			gtag('config', 'UA-143754760-1');
-		</script>
+		gtag('config', 'UA-143754760-1');
+	</script>
 
 	</body>
 </html>
