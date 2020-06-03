@@ -77,7 +77,7 @@
 		
 		<div class="slider">
 			<ul>
-		    		<li><img src="images/taekwondo/taekwondo9.jpeg"/></li>
+	     		<li><img src="images/taekwondo/taekwondo9.jpeg"/></li>
 				<li><img src="images/taekwondo/ney.jpeg"/></li>
 				<li><img src="images/taekwondo/time.jpeg"/></li>
 				<li><img src="images/taekwondo/time2.jpeg"/></li>
@@ -92,18 +92,6 @@
 				<li><img src="images/taekwondo/medalhas.jpeg"/></li>
 				<li><img src="images/taekwondo/criancas1.jpeg"/></li>
 				<li><img src="images/taekwondo/decathlon1.jpeg"/></li>
-				<li><img src="images/taekwondo/familia1.jpeg"/></li>
-				<li><img src="images/taekwondo/jornal1.jpeg"/></li>
-				<li><img src="images/taekwondo/ney2.jpeg"/></li>
-				<li><img src="images/taekwondo/time5.jpeg"/></li>
-				<li><img src="images/taekwondo/time6.jpeg"/></li>
-				<li><img src="images/taekwondo/time7.jpeg"/></li>
-				<li><img src="images/taekwondo/time8.jpeg"/></li>
-				<li><img src="images/taekwondo/time10.jpeg"/></li>
-				<li><img src="images/taekwondo/time11.jpeg"/></li>
-				<li><img src="images/taekwondo/time13.jpeg"/></li>
-				<li><img src="images/taekwondo/trofeus1.jpeg"/></li>								
-				<li><img src="images/taekwondo/luizinha1.jpeg"/></li>								
 			</ul>
 		</div>
 		
@@ -115,7 +103,19 @@
 				<li><img src="images/taekwondo/marcao-e-crianca1.jpeg"/></li>
 				<li><img src="images/taekwondo/mauricio1.jpeg"/></li>
 				<li><img src="images/taekwondo/time9.jpeg"/></li>
-
+				<li><img src="images/taekwondo/time8.jpeg"/></li>
+				<li><img src="images/taekwondo/time10.jpeg"/></li>
+				<li><img src="images/taekwondo/time11.jpeg"/></li>
+				<li><img src="images/taekwondo/time13.jpeg"/></li>
+				<li><img src="images/taekwondo/trofeus1.jpeg"/></li>								
+				<li><img src="images/taekwondo/luizinha1.jpeg"/></li>								
+				<li><img src="images/taekwondo/familia1.jpeg"/></li>
+				<li><img src="images/taekwondo/jornal1.jpeg"/></li>
+				<li><img src="images/taekwondo/ney2.jpeg"/></li>
+				<li><img src="images/taekwondo/time5.jpeg"/></li>
+				<li><img src="images/taekwondo/time6.jpeg"/></li>
+				<li><img src="images/taekwondo/time7.jpeg"/></li>
+				<li><img src="images/taekwondo/mestres.jpg"/></li>		
 			</ul>
 		</div>
 
