@@ -87,9 +87,27 @@
 				<li><img src="images/taekwondo/ney2.jpeg"/></li>
 				<li><img src="images/taekwondo/luizinha1.jpeg"/></li>
 				<li><img src="images/taekwondo/marcao-e-crianca1.jpeg"/></li>
+				<li><img src="images/taekwondo/marcao-e-crianca3.jpg"/></li>
+				<li><img src="images/taekwondo/marcao-e-criancas1.jpg"/></li>				
+				<li><img src="images/taekwondo/marcao-e-criancas3.jpg"/></li>				
+				
 			</ul>
 		</div>
-		
+
+		<div class="slider">
+			<ul>
+				<li><img src="images/taekwondo/crianca2.jpg"/></li>
+				<li><img src="images/taekwondo/crianca3.jpg"/></li>
+				<li><img src="images/taekwondo/crianca4.jpg"/></li>
+				<li><img src="images/taekwondo/criancas2.jpg"/></li>
+				<li><img src="images/taekwondo/criancas3.jpg"/></li>
+				<li><img src="images/taekwondo/marcao-anderson-crianca1.jpg"/></li>
+				<li><img src="images/taekwondo/marcao-e-crianca2.jpg"/></li>
+				<li><img src="images/taekwondo/marcao-e-crianca4.jpg"/></li>				
+				<li><img src="images/taekwondo/marcao-e-criancas2.jpg"/></li>				
+				<li><img src="images/taekwondo/marcao-e-criancas4.jpg"/></li>				
+			</ul>
+		</div>		
 		<div id="ytplayer"></div><br />
 		<div id="ytplayer2"></div><br />
 		<div id="ytplayer3"></div><br />
