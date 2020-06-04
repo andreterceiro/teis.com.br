@@ -90,7 +90,7 @@
 				<li><img src="images/taekwondo/marcao-e-crianca3.jpg"/></li>
 				<li><img src="images/taekwondo/marcao-e-criancas1.jpg"/></li>				
 				<li><img src="images/taekwondo/marcao-e-criancas3.jpg"/></li>				
-				
+				<li><img src="images/taekwondo/marcao-e-criancas5.jpg"/></li>								
 			</ul>
 		</div>
 
@@ -99,6 +99,7 @@
 				<li><img src="images/taekwondo/crianca2.jpg"/></li>
 				<li><img src="images/taekwondo/crianca3.jpg"/></li>
 				<li><img src="images/taekwondo/crianca4.jpg"/></li>
+				<li><img src="images/taekwondo/crianca5.jpg"/></li>
 				<li><img src="images/taekwondo/criancas2.jpg"/></li>
 				<li><img src="images/taekwondo/criancas3.jpg"/></li>
 				<li><img src="images/taekwondo/marcao-anderson-crianca1.jpg"/></li>
