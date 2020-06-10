@@ -145,6 +145,14 @@
 		<div id="ytplayer23"></div><br />
 		<div id="ytplayer24"></div><br />
 		
+		<br />
+		
+		<div>
+		    Vídeos do Facebook:
+		    <ul>
+		        <li><a href="https://www.facebook.com/marcos.teis.7/videos/1167596036705865/" target="_blank"/>https://www.facebook.com/marcos.teis.7/videos/1167596036705865/</a></li>
+		    </ul>
+		</div>
 		<script>
 			// Load the IFrame Player API code asynchronously.
 			var tag = document.createElement('script');
