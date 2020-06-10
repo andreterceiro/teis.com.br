@@ -92,6 +92,7 @@
 				<li><img src="images/taekwondo/marcao-e-criancas3.jpg"/></li>				
 				<li><img src="images/taekwondo/marcao-e-criancas5.jpg"/></li>								
 				<li><img src="images/taekwondo/ney-amarela.jpg"/></li>				
+				<li><img src="images/taekwondo/marcao-e-criancas6.jpg"/></li>
 			</ul>
 		</div>
 
@@ -107,7 +108,8 @@
 				<li><img src="images/taekwondo/marcao-e-crianca2.jpg"/></li>
 				<li><img src="images/taekwondo/marcao-e-crianca4.jpg"/></li>				
 				<li><img src="images/taekwondo/marcao-e-criancas2.jpg"/></li>				
-				<li><img src="images/taekwondo/marcao-e-criancas4.jpg"/></li>				
+				<li><img src="images/taekwondo/marcao-e-criancas4.jpg"/></li>	
+				<li><img src="images/taekwondo/marcao-e-criancas5.jpg"/></li>
 			</ul>
 		</div>		
 		<div id="ytplayer"></div><br />

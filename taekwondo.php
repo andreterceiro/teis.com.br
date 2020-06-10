@@ -120,6 +120,19 @@
 			</ul>
 		</div>
 
+		
+		<div class="slider">
+			<ul>
+				<li><img src="images/taekwondo/marcao-e-criancas5.jpg"/></li>
+				<li><img src="images/taekwondo/marcao5.jpg"/></li>
+				<li><img src="images/taekwondo/sabrina2.jpg"/></li>
+				<li><img src="images/taekwondo/sabrina3.jpg"/></li>
+				<li><img src="images/taekwondo/marcao-e-sabrina1.jpg"/></li>
+				<li><img src="images/taekwondo/aula1.jpg"/></li>
+			</ul>	
+		</div>
+
+
 		<div id="ytplayer"></div><br />
 		<div id="ytplayer2"></div><br />
 		<div id="ytplayer3"></div><br />
