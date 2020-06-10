@@ -92,6 +92,7 @@
 				<li><img src="images/taekwondo/medalhas.jpeg"/></li>
 				<li><img src="images/taekwondo/criancas1.jpeg"/></li>
 				<li><img src="images/taekwondo/decathlon1.jpeg"/></li>
+				<li><img src="images/taekwondo/ney-amarela.jpg"/></li>
 			</ul>
 		</div>
 		
@@ -142,6 +143,7 @@
 		<div id="ytplayer21"></div><br />
 		<div id="ytplayer22"></div><br />
 		<div id="ytplayer23"></div><br />
+		<div id="ytplayer24"></div><br />
 		
 		<script>
 			// Load the IFrame Player API code asynchronously.
@@ -292,6 +294,13 @@
 				width: '640',
 				videoId: 'WPsMBtpEZWg'
 				});
+				
+				player24 = new YT.Player('ytplayer24', {
+				height: '360',
+				width: '640',
+				videoId: 'WPsMBtpEZWg'
+				});
+
 			}
 		</script>
 		
