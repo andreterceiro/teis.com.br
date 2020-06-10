@@ -91,6 +91,7 @@
 				<li><img src="images/taekwondo/marcao-e-criancas1.jpg"/></li>				
 				<li><img src="images/taekwondo/marcao-e-criancas3.jpg"/></li>				
 				<li><img src="images/taekwondo/marcao-e-criancas5.jpg"/></li>								
+				<li><img src="images/taekwondo/ney-amarela.jpg"/></li>				
 			</ul>
 		</div>
 
