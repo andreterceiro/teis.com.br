@@ -116,7 +116,7 @@
 				<li><img src="images/taekwondo/time5.jpeg"/></li>
 				<li><img src="images/taekwondo/time6.jpeg"/></li>
 				<li><img src="images/taekwondo/time7.jpeg"/></li>
-				<li><img src="images/taekwondo/mestres.jpg"/></li>		
+				<li><img src="images/taekwondo/mestres.jpg?a=1"/></li>		
 			</ul>
 		</div>
 
@@ -128,7 +128,7 @@
 				<li><img src="images/taekwondo/sabrina2.jpg"/></li>
 				<li><img src="images/taekwondo/sabrina3.jpg"/></li>
 				<li><img src="images/taekwondo/marcao-e-sabrina1.jpg"/></li>
-				<li><img src="images/taekwondo/aula1.jpg"/></li>
+				<li><img src="images/taekwondo/aula1.jpg?a=1"/></li>
 			</ul>	
 		</div>
 
