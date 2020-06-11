@@ -82,6 +82,7 @@
 				<li><img src="images/muay-thai/muay-thai2.jpg"/></li>
 				<li><img src="images/muay-thai/muay-thai3.jpg"/></li>
 				<li><img src="images/muay-thai/aula1.jpg"/></li>
+				<li><img src="images/muay-thai/logotipo1.jpg"/></li>
 			</ul>
 		</div>
 
