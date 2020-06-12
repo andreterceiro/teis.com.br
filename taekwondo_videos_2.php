@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -56,7 +57,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center fh5co-table">
 						<div class="fh5co-intro fh5co-table-cell animate-box">
-							<h1 class="text-center">Taekwondo</h1>
+							<h1 class="text-center">Vídeos de Taekwondo - parte 2</h1>
 						</div>
 					</div>
 				</div>
@@ -68,21 +69,117 @@
 					<div class="row">
 						<div class="col-md-12 animate-box">
 							<div class="row" style="font-family: Roboto, Arial, sans-serif !important">
-								Sou suspeito para falar. Adoro a aula, tanto a do professor Anderson quanto a do mestre Marcos. Novamente: o intuito da academia não é apenas ensinar golpes de artes marciais. Aqui nós nos divertimos muito! Venha fazer parte desta família!
-								<br /><br />
-								Para melhorar sua experiência no site, deixando a página mais rápida, decidimos colocar o conteúdo em uma página externa. Os links abrirão em uma nova aba/janela:
-								<ul>
-								    <li><a href="taekwondo_fotos_1.php" target="_blank">Parte 1 das fotos</a></li>
-								    <li><a href="taekwondo_fotos_2.php" target="_blank">Parte 2 das fotos</a></li>
-								    <li><a href="taekwondo_fotos_3.php" target="_blank">Parte 3 das fotos</a></li>
-								    <li><a href="taekwondo_videos_1.php" target="_blank">Parte 1 dos vídeos</a></li>
-								    <li><a href="taekwondo_videos_2.php" target="_blank">Parte 2 dos vídeos</a></li>
-								</ul>
+								Nossos vídeos - parte 2
 							</div>
 						</div>
 					</div>
 			</div>
 		</div>
+
+		<div id="ytplayer13"></div><br />
+		<div id="ytplayer14"></div><br />
+		<div id="ytplayer15"></div><br />
+		<div id="ytplayer16"></div><br />
+		<div id="ytplayer17"></div><br />			
+		<div id="ytplayer18"></div><br />
+		<div id="ytplayer19"></div><br />
+		<div id="ytplayer20"></div><br />
+		<div id="ytplayer21"></div><br />
+		<div id="ytplayer22"></div><br />
+		<div id="ytplayer23"></div><br />
+		<div id="ytplayer24"></div><br />
+		
+		<script>
+			// Load the IFrame Player API code asynchronously.
+			var tag = document.createElement('script');
+			tag.src = "https://www.youtube.com/player_api";
+			var firstScriptTag = document.getElementsByTagName('script')[0];
+			firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+			// Replace the 'ytplayer' element with an <iframe> and
+			// YouTube player after the API code downloads.
+			function onYouTubePlayerAPIReady() {
+				var player12 = new YT.Player('ytplayer12', {
+				height: '360',
+				width: '640',
+				videoId: 'hLT9sC3h_gc'
+				});
+				
+				var player13 = new YT.Player('ytplayer13', {
+				height: '360',
+				width: '640',
+				videoId: 'EOV7NminOsc'
+				});
+
+				var player14 = new YT.Player('ytplayer14', {
+				height: '360',
+				width: '640',
+				videoId: 'eLATk5lLzE8'
+				});
+
+				var player15 = new YT.Player('ytplayer15', {
+				height: '360',
+				width: '640',
+				videoId: 'IGMsQHEa6R0'
+				});
+
+				var player16 = new YT.Player('ytplayer16', {
+				height: '360',
+				width: '640',
+				videoId: 'NJKQSSfacyo'
+				});
+
+				var player17 = new YT.Player('ytplayer17', {
+				height: '360',
+				width: '640',
+				videoId: 'csRg5VeCrR8'
+				});
+
+				var player18 = new YT.Player('ytplayer18', {
+				height: '360',
+				width: '640',
+				videoId: 'hLT9sC3h_gc'
+				});
+				
+				var player19 = new YT.Player('ytplayer19', {
+				height: '360',
+				width: '640',
+				videoId: 'g2hAHl7hcW8'
+				});
+				
+				var player20 = new YT.Player('ytplayer20', {
+				height: '360',
+				width: '640',
+				videoId: 'ZpWyeMDgmL0'
+				});
+				
+				var player21 = new YT.Player('ytplayer21', {
+				height: '360',
+				width: '640',
+				videoId: 'gOUy_6MUYxg'
+				});
+
+				var player22 = new YT.Player('ytplayer22', {
+				height: '360',
+				width: '640',
+				videoId: 'fnHLrLo5ZY0'
+				});
+
+				var player23 = new YT.Player('ytplayer23', {
+				height: '360',
+				width: '640',
+				videoId: 'WPsMBtpEZWg'
+				});
+				
+				var player24 = new YT.Player('ytplayer24', {
+				height: '360',
+				width: '640',
+				videoId: 'WPsMBtpEZWg'
+				});
+			}
+		</script>
+		
+		<br /><br />
 		
 		<!-- END fh5co-contact -->
 		<footer>
