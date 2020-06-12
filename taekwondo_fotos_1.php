@@ -56,33 +56,47 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center fh5co-table">
 						<div class="fh5co-intro fh5co-table-cell animate-box">
-							<h1 class="text-center">Taekwondo</h1>
+							<h1 class="text-center">Fotos de Taekwondo - parte 1</h1>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div><!-- end: fh5co-parallax -->
 		<!-- end:fh5co-hero -->
+		
 		<div id="fh5co-contact">
 			<div class="container">
-					<div class="row">
-						<div class="col-md-12 animate-box">
-							<div class="row" style="font-family: Roboto, Arial, sans-serif !important">
-								Sou suspeito para falar. Adoro a aula, tanto a do professor Anderson quanto a do mestre Marcos. Novamente: o intuito da academia não é apenas ensinar golpes de artes marciais. Aqui nós nos divertimos muito! Venha fazer parte desta família!
-								<br /><br />
-								Para melhorar sua experiência no site, deixando a página mais rápida, decidimos colocar o conteúdo em uma página externa. Os links abrirão em uma nova aba/janela:
-								<ul>
-								    <li><a href="taekwondo_fotos_1.php" target="_blank">Parte 1 das fotos</a></li>
-								    <li><a href="taekwondo_fotos_2.php" target="_blank">Parte 2 das fotos</a></li>
-								    <li><a href="taekwondo_fotos_3.php" target="_blank">Parte 3 das fotos</a></li>
-								    <li><a href="taekwondo_videos_1.php" target="_blank">Parte 1 dos vídeos</a></li>
-								    <li><a href="taekwondo_videos_2.php" target="_blank">Parte 2 dos vídeos</a></li>
-								</ul>
-							</div>
+				<div class="row">
+					<div class="col-md-12 animate-box">
+						<div class="row" style="font-family: Roboto, Arial, sans-serif !important">
+							Nossos fotos de Taekwondo - parte 1
 						</div>
 					</div>
+				</div>
 			</div>
 		</div>
+		
+		<div class="slider">
+			<ul>
+	     		<li><img src="images/taekwondo/taekwondo9.jpeg"/></li>
+				<li><img src="images/taekwondo/ney.jpeg"/></li>
+				<li><img src="images/taekwondo/time.jpeg"/></li>
+				<li><img src="images/taekwondo/time2.jpeg"/></li>
+				<li><img src="images/taekwondo/time4.jpeg"/></li>
+				<li><img src="images/taekwondo/sabrina.jpeg"/></li>
+				<li><img src="images/taekwondo/time3.jpeg"/></li>
+				<li><img src="images/taekwondo/aniversario1.jpeg"/></li>
+				<li><img src="images/taekwondo/aniversario2.jpeg"/></li>
+				<li><img src="images/taekwondo/marcao2.jpeg"/></li>
+				<li><img src="images/taekwondo/campeonato1.jpeg"/></li>
+				<li><img src="images/taekwondo/time5.jpeg"/></li>
+				<li><img src="images/taekwondo/medalhas.jpeg"/></li>
+				<li><img src="images/taekwondo/criancas1.jpeg"/></li>
+				<li><img src="images/taekwondo/decathlon1.jpeg"/></li>
+				<li><img src="images/taekwondo/ney-amarela.jpg"/></li>
+			</ul>
+		</div>
+		<br /><br />
 		
 		<!-- END fh5co-contact -->
 		<footer>
@@ -117,5 +131,7 @@
 
 	</body>
 </html>
+
+
 
 
