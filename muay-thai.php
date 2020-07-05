@@ -40,7 +40,7 @@
 				<div class="container">
 					<div class="nav-header">
 						<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
-						<h1><a href="index.php"><img  <?php if ($firefox && !$mobíle) { echo 'style="margin-left: -500px "' ;} elseif(! $mobile) { echo 'style="margin-left: -800px "' ;} ?> src="images/logo2.png" /></a></h1>
+						<h1><a href="index.php"><img  <?php if ($firefox && !$mobile) { echo 'style="margin-left: -500px "' ;} elseif(! $mobile) { echo 'style="margin-left: -800px "' ;} ?> src="images/logo2.png" /></a></h1>
 						<!-- START #fh5co-menu-wrap -->
 						<nav id="fh5co-menu-wrap" role="navigation">
 							<?php require_once("menu.php"); ?>
@@ -81,11 +81,23 @@
 				<li><img src="images/muay-thai/muay-thai.jpg"/></li>
 				<li><img src="images/muay-thai/muay-thai2.jpg"/></li>
 				<li><img src="images/muay-thai/muay-thai3.jpg"/></li>
-				<!--<li><img src="images/muay-thai/muay-thai4.jpg"/></li>-->
+				<li><img src="images/muay-thai/aula1.jpg"/></li>
+				<li><img src="images/muay-thai/logotipo1.jpg"/></li>
+			</ul>
+		</div>
+
+		<div class="slider">
+			<ul>
+				<li><img src="images/muay-thai/muay-thai5.jpg"/></li>
+				<li><img src="images/muay-thai/muay-thai6.jpg"/></li>
+				<li><img src="images/muay-thai/muay-thai4.jpg"/></li>
+				<li><img src="images/muay-thai/equipe1.jpg"/></li>
 			</ul>
 		</div>
 		
 		<div id="ytplayer"></div><br />
+		<div id="ytplayer2"></div><br />
+		<div id="ytplayer3"></div><br />
 		
 		<script>
 			// Load the IFrame Player API code asynchronously.
@@ -99,10 +111,26 @@
 			var player;
 			function onYouTubePlayerAPIReady() {
 				player = new YT.Player('ytplayer', {
-				height: '360',
-				width: '640',
-				videoId: '1UKX_4hUBMw'
-				});
+						height: '360',
+						width: '640',
+						videoId: '1UKX_4hUBMw'
+					}
+				);
+
+				player2 = new YT.Player('ytplayer2', {
+						height: '360',
+						width: '640',
+						videoId: 'W0aPhrL1zt8'
+					}
+				);
+
+				player3 = new YT.Player('ytplayer3', {
+						height: '360',
+						width: '640',
+						videoId: 'Nwy5EvHGNSU'
+					}
+				);
+				
 			}
 		</script>				
 		

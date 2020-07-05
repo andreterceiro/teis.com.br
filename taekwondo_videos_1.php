@@ -56,7 +56,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center fh5co-table">
 						<div class="fh5co-intro fh5co-table-cell animate-box">
-							<h1 class="text-center">Taekwondo</h1>
+							<h1 class="text-center">Vídeos de Taekwondo - parte 1</h1>
 						</div>
 					</div>
 				</div>
@@ -65,24 +65,123 @@
 		<!-- end:fh5co-hero -->
 		<div id="fh5co-contact">
 			<div class="container">
-					<div class="row">
-						<div class="col-md-12 animate-box">
-							<div class="row" style="font-family: Roboto, Arial, sans-serif !important">
-								Sou suspeito para falar. Adoro a aula, tanto a do professor Anderson quanto a do mestre Marcos. Novamente: o intuito da academia não é apenas ensinar golpes de artes marciais. Aqui nós nos divertimos muito! Venha fazer parte desta família!
-								<br /><br />
-								Para melhorar sua experiência no site, deixando a página mais rápida, decidimos colocar o conteúdo em uma página externa. Os links abrirão em uma nova aba/janela:
-								<ul>
-								    <li><a href="taekwondo_fotos_1.php" target="_blank">Parte 1 das fotos</a></li>
-								    <li><a href="taekwondo_fotos_2.php" target="_blank">Parte 2 das fotos</a></li>
-								    <li><a href="taekwondo_fotos_3.php" target="_blank">Parte 3 das fotos</a></li>
-								    <li><a href="taekwondo_videos_1.php" target="_blank">Parte 1 dos vídeos</a></li>
-								    <li><a href="taekwondo_videos_2.php" target="_blank">Parte 2 dos vídeos</a></li>
-								</ul>
-							</div>
+				<div class="row">
+					<div class="col-md-12 animate-box">
+						<div class="row" style="font-family: Roboto, Arial, sans-serif !important">
+							Nossos vídeos de Taekwondo - parte 1
 						</div>
 					</div>
+				</div>
 			</div>
 		</div>
+
+		<div id="ytplayer"></div><br />
+		<div id="ytplayer2"></div><br />
+		<div id="ytplayer3"></div><br />
+		<div id="ytplayer4"></div><br />
+		<div id="ytplayer5"></div><br />
+		<div id="ytplayer6"></div><br />
+		<div id="ytplayer7"></div><br />
+		<div id="ytplayer8"></div><br />
+		<div id="ytplayer9"></div><br />
+		<div id="ytplayer10"></div><br />
+		<div id="ytplayer11"></div><br />
+		<div id="ytplayer12"></div><br />
+		
+		<br />
+		
+		<div>
+		    Vídeos do Facebook:
+		    <ul>
+		        <li><a href="https://www.facebook.com/marcos.teis.7/videos/1167596036705865/" target="_blank"/>https://www.facebook.com/marcos.teis.7/videos/1167596036705865/</a></li>
+		    </ul>
+		</div>
+		<script>
+			// Load the IFrame Player API code asynchronously.
+			var tag = document.createElement('script');
+			tag.src = "https://www.youtube.com/player_api";
+			var firstScriptTag = document.getElementsByTagName('script')[0];
+			firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+			// Replace the 'ytplayer' element with an <iframe> and
+			// YouTube player after the API code downloads.
+			var player;
+			function onYouTubePlayerAPIReady() {
+				player = new YT.Player('ytplayer', {
+				height: '360',
+				width: '640',
+				videoId: 'VmGozizMsxQ'
+				});
+				
+				player2 = new YT.Player('ytplayer2', {
+				height: '360',
+				width: '640',
+				videoId: 'dtel_jMbFiQ'
+				});
+
+				player3 = new YT.Player('ytplayer3', {
+				height: '360',
+				width: '640',
+				videoId: 'UIJ5d73ZNhk'
+				});
+
+				player4 = new YT.Player('ytplayer4', {
+				height: '360',
+				width: '640',
+				videoId: 'iRb0aqNQreo'
+				});
+
+				player5 = new YT.Player('ytplayer5', {
+				height: '360',
+				width: '640',
+				videoId: '-bdzb7vJ-7M'
+				});
+				
+				player6 = new YT.Player('ytplayer6', {
+				height: '360',
+				width: '640',
+				videoId: '2I6xYqKA4Cs'
+				});
+				
+				player7 = new YT.Player('ytplayer7', {
+				height: '360',
+				width: '640',
+				videoId: 'H10D_yQ5Jvg'
+				});
+				
+				player8 = new YT.Player('ytplayer8', {
+				height: '360',
+				width: '640',
+				videoId: '5barNBg3Yd8'
+				});
+				
+				player9 = new YT.Player('ytplayer9', {
+				height: '360',
+				width: '640',
+				videoId: 'UUQ7cTMV_Bs'
+				});
+				
+				player10 = new YT.Player('ytplayer10', {
+				height: '360',
+				width: '640',
+				videoId: 'sjj2P_pYQLI'
+				});
+				
+				player11 = new YT.Player('ytplayer11', {
+				height: '360',
+				width: '640',
+				videoId: 'lqu2JsYDMxU'
+				});
+				
+				player12 = new YT.Player('ytplayer12', {
+				height: '360',
+				width: '640',
+				videoId: 'hLT9sC3h_gc'
+				});
+			}
+		</script>
+		
+		<br /><br />
 		
 		<!-- END fh5co-contact -->
 		<footer>

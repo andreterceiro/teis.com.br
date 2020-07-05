@@ -39,7 +39,7 @@
 				<div class="container">
 					<div class="nav-header">
 						<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
-						<h1><a href="index.php"><img  <?php if ($firefox && !$mobíle) { echo 'style="margin-left: -500px "' ;} elseif(! $mobile) { echo 'style="margin-left: -800px "' ;} ?> src="images/logo2.png" /></a></h1>
+						<h1><a href="index.php"><img  <?php if ($firefox && !$mobile) { echo 'style="margin-left: -500px "' ;} elseif(! $mobile) { echo 'style="margin-left: -800px "' ;} ?> src="images/logo2.png" /></a></h1>
 						<!-- START #fh5co-menu-wrap -->
 						<nav id="fh5co-menu-wrap" role="navigation">
 							<?php require_once("menu.php"); ?>
@@ -81,6 +81,17 @@
 				<li><img src="images/todos/todos4.jpg"/></li>
 				<li><img src="images/todos/todos5.jpg"/></li>												
 				<li><img src="images/todos/todos6.jpg"/></li>				
+				<li><img src="images/taekwondo/ney.jpeg"/></li>				
+				<li><img src="images/taekwondo/time2.jpeg"/></li>				
+				<li><img src="images/taekwondo/aniversario1.jpeg"/></li>				
+				<li><img src="images/taekwondo/medalhas.jpeg"/></li>				
+				<li><img src="images/taekwondo/jornal1.jpeg"/></li>				
+				<li><img src="images/taekwondo/marcao-e-crianca1.jpeg"/></li>				
+				<li><img src="images/kung-fu/kung-fu2.jpg"/></li>				
+				<li><img src="images/kung-fu/2.jpg"/></li>				
+				<li><img src="images/muay-thai/muay-thai.jpg"/></li>				
+				<li><img src="images/muay-thai/muay-thai6.jpg"/></li>				
+				<li><img src="images/jiu-jitsu/jiu2.jpg"/></li>				
 			</ul>
 		</div>
 

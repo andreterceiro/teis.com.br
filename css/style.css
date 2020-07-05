@@ -154,7 +154,7 @@ figure {
   }
 }
 .fh5co-cover .desc h2 {
-  color: #fff;
+  color: #FFF;
   font-size: 55px;
   font-weight: 300;
   margin-bottom: 10px;
@@ -165,6 +165,7 @@ figure {
   .fh5co-cover .desc h2 {
     font-size: 40px;
     line-height: 50px;
+    font-size: 36px;
   }
 }
 .fh5co-cover .desc span {
@@ -1389,4 +1390,16 @@ figure {
 marquee a{
     font-size: 25px;
     color: #FF0000;
+}
+
+.roundabout-prev {
+	border: 26px solid #880000;
+	background-color: #880000 !important;
+}
+
+.roundabout-next {
+	border: 40px solid #880000;
+	background-color: #880000 !important;
+	border-right: 26px !important;
+	
 }
