@@ -81,6 +81,8 @@
 				<li><img src="images/muay-thai/muay-thai.jpg"/></li>
 				<li><img src="images/muay-thai/muay-thai2.jpg"/></li>
 				<li><img src="images/muay-thai/muay-thai3.jpg"/></li>
+				<li><img src="images/muay-thai/aula1.jpg"/></li>
+				<li><img src="images/muay-thai/logotipo1.jpg"/></li>
 			</ul>
 		</div>
 
@@ -89,6 +91,7 @@
 				<li><img src="images/muay-thai/muay-thai5.jpg"/></li>
 				<li><img src="images/muay-thai/muay-thai6.jpg"/></li>
 				<li><img src="images/muay-thai/muay-thai4.jpg"/></li>
+				<li><img src="images/muay-thai/equipe1.jpg"/></li>
 			</ul>
 		</div>
 		

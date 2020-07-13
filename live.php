@@ -67,7 +67,7 @@
 					<div class="row">
 						<div class="col-md-12 animate-box">
 							<div class="row" style="font-family: Roboto, Arial, sans-serif !important">
-								A primeira live foi em 28/05/2020, às 20:00. Veja o vídeo abaixo. Quando acontecer outra, avisaremos. <a target="_blank" href="https://www.facebook.com/marcos.teis.7">Clique aqui para acessar o perfil do mestre no Facebook. Ele posta lá</a>. 
+								Já tivemos algumas lives. Quando acontecer outra, avisaremos. <a target="_blank" href="https://www.facebook.com/marcos.teis.7">Clique aqui para acessar o perfil do mestre no Facebook. Ele posta lá</a>. 
 							</div>
 						</div>
 					</div>
