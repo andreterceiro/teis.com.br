@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if lt IE 7]>      <html adeacclass="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
@@ -273,7 +273,7 @@
 					<div class="row">
 						<div class="col-md-4 animate-box">
 							<h3 class="section-title">Sobre nós</h3>
-							<p>Na academia Teis gostamos de nos divertir e treinar. Vamos no seu ritmo. E buscamos os resultados que quer. Estamos próximos ao Shopping Anália Franco e a escola Kennedy, na Vila Formosa, zona leste de São Paulo.</p>
+							<p>Na academia Teis gostamos de nos divertir e treinar. Vamos no seu ritmo. E buscamos os resultados que quer. Estamos próximos ao Shopping Anália Franco e à escola Kennedy, na Vila Formosa, zona leste de São Paulo.</p>
 						</div>
 
 						<div class="col-md-4 animate-box">
