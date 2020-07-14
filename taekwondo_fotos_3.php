@@ -84,6 +84,8 @@
 				<li><img src="images/taekwondo/marcao-e-sabrina1.jpg"/></li>
 				<li><img src="images/taekwondo/aula1.jpg?a=1"/></li>
 				<li><img src="images/taekwondo/marcao6.jpg?a=1"/></li>
+				<li><img src="images/covid/taekwondo1.jpg"/></li>
+				<li><img src="images/covid/taekwondo2.jpg"/></li>				
 			</ul>	
 		</div>
 		
