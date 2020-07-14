@@ -75,13 +75,21 @@
 								Além do mais, tem a condição humana. Os alunos são pessoas queridas. Não queremos o mal. 
 								Não só nesta academia voltaram as aulas. A academia contribui para pessoas com mais saúde.
 								Temos 2 horários do Taekwondo e foi feita <a target="_blank" href="http://www.teis.com.br/images/planilha.jpg">a seguinte planilha</a> para não termos problemas 
-								de excesso de alunos em um horário
+								de excesso de alunos em um horário.
 								Abaixo um vídeo do mestre instruindo os alunos na volta às aulas.
 							</div>
 						</div>
 					</div>
 			</div>
 		</div>
+
+		<div class="slider">
+			<ul>
+				<li><img src="images/covid/taekwondo1.jpg"/></li>
+				<li><img src="images/covid/taekwondo2.jpg"/></li>
+			</ul>
+		</div>
+
 
 	<div id="ytplayer"></div><br />
 	
