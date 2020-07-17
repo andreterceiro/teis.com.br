@@ -56,7 +56,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center fh5co-table">
 						<div class="fh5co-intro fh5co-table-cell animate-box">
-							<h1 class="text-center">Fotos de Taekwondo - parte 3</h1>
+							<h1 class="text-center">Covid-19</h1>
 						</div>
 					</div>
 				</div>
@@ -68,28 +68,51 @@
 					<div class="row">
 						<div class="col-md-12 animate-box">
 							<div class="row" style="font-family: Roboto, Arial, sans-serif !important">
-								Nosas fotos de Taekwondo - parte 3
+								Sabemos do perigo que é o Covid-19. Estamos fazendo o que é prudente ser feito. 
+								Tatame muito limpo, limitação de alunos por horário, álcool em gel. Pense bem: 
+								de que adianta um aluno pagar um mês e morrer no outro, ou, mesmo se recuperando, 
+								ficar nervoso porque pegou Covid na academia. Naão voltará mais. Não queremos isto. 
+								Além do mais, tem a condição humana. Os alunos são pessoas queridas. Não queremos o mal. 
+								Não só nesta academia voltaram as aulas. A academia contribui para pessoas com mais saúde.
+								Temos 2 horários do Taekwondo e foi feita <a target="_blank" href="http://www.teis.com.br/images/planilha.jpg">a seguinte planilha</a> para não termos problemas 
+								de excesso de alunos em um horário.
+								Abaixo um vídeo do mestre instruindo os alunos na volta às aulas.
 							</div>
 						</div>
 					</div>
 			</div>
 		</div>
-		
+
 		<div class="slider">
 			<ul>
-				<li><img src="images/taekwondo/marcao-e-criancas5.jpg"/></li>
-				<li><img src="images/taekwondo/marcao5.jpg"/></li>
-				<li><img src="images/taekwondo/sabrina2.jpg"/></li>
-				<li><img src="images/taekwondo/sabrina3.jpg"/></li>
-				<li><img src="images/taekwondo/marcao-e-sabrina1.jpg"/></li>
-				<li><img src="images/taekwondo/aula1.jpg?a=1"/></li>
-				<li><img src="images/taekwondo/marcao6.jpg?a=1"/></li>
 				<li><img src="images/covid/taekwondo1.jpg"/></li>
-				<li><img src="images/covid/taekwondo2.jpg"/></li>				
-			</ul>	
+				<li><img src="images/covid/taekwondo2.jpg"/></li>
+			</ul>
 		</div>
-		
-		<br /><br />
+
+
+	<div id="ytplayer"></div><br />
+	
+	<script>
+		// Load the IFrame Player API code asynchronously.
+		var tag = document.createElement('script');
+		tag.src = "https://www.youtube.com/player_api";
+		var firstScriptTag = document.getElementsByTagName('script')[0];
+		firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+		// Replace the 'ytplayer' element with an <iframe> and
+		// YouTube player after the API code downloads.
+		var player;
+		function onYouTubePlayerAPIReady() {
+			player = new YT.Player('ytplayer', {
+			height: '360',
+			width: '640',
+			videoId: 'IKC-XpuD76Y'
+			});
+		}
+	</script>
+<br /><br />
+	
 		
 		<!-- END fh5co-contact -->
 		<footer>
@@ -108,19 +131,19 @@
 	</div>
 	<!-- END fh5co-wrapper -->
 	<?php require_once("javascript.php"); ?>
-	<script>
-		$('.slider').carousel({dots: true, infinite: true, speed: 200});
-	</script>
-	
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143754760-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
+		<script>
+			$('.slider').carousel({dots: true, infinite: true, speed: 200});
+		</script>
+		
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143754760-1"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
 
-		gtag('config', 'UA-143754760-1');
-	</script>
+			gtag('config', 'UA-143754760-1');
+		</script>
 
 	</body>
 </html>
