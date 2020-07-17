@@ -248,7 +248,7 @@
 					<div class="col-md-7 animate-box">
 						<div class="price-box animate-box">
 							<h2 class="pricing-plan">1 modalidade</h2>
-							<div class="price"><sup class="currency">$</sup>120,00<small>/mês</small></div>
+							<div class="price"><sup class="currency">$</sup>130,00<small>/mês</small></div>
 							<p>Neste plano você escolhe 1 modalidade. Muay Thai e Jiu-Jitsu por R$89,99 por mês. De R$720,00 por R$599,00 no plano semestral.</p>
 						</div>
 					</div>
