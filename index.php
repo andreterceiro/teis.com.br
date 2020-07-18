@@ -66,6 +66,12 @@
 		</div>
 		<!-- end:fh5co-hero -->
 		<div id="fh5co-schedule-section" class="fh5co-lightgray-section">
+			<div>
+			
+			<marquee class="destaque">Novo horário: aula de Taekwondo às 16:00 aos sábados, treino preparatório para o exame</marquee>
+			
+			</div>
+
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
