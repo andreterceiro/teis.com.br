@@ -57,7 +57,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-7">
-								<h2>Voltaram as aulas! Taekwondo começou em 13/07! <br><br>A academia Teis é um ambiente familiar, onde treinamos artes marciais, com o ojetivo de formar campeões na vida e nos esportes</h2>
+								<h2>Voltaram as aulas! Taekwondo começou em 13/07! <br><br>A academia Teis é um ambiente familiar, onde treinamos artes marciais, com o objetivo de formar campeões na vida e nos esportes</h2>
 							</div>
 						</div>
 					</div>
