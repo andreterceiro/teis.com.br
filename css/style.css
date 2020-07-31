@@ -1,3 +1,8 @@
+.destaque {
+    color: #F00;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
 @font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
@@ -155,7 +160,7 @@ figure {
 }
 .fh5co-cover .desc h2 {
   color: #FFF;
-  font-size: 40px;
+  font-size: 38px;
   font-weight: 300;
   margin-bottom: 10px;
   line-height: 60px;
@@ -163,7 +168,6 @@ figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover .desc h2 {
-    font-size: 40px;
     line-height: 50px;
     font-size: 36px;
   }
