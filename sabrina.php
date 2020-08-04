@@ -70,6 +70,7 @@
 						<div class="col-md-12 animate-box">
 							<div class="row" style="font-family: Roboto, Arial, sans-serif !important">
 								A Sabrina é um dos nossos principais projetos atualmente. Ela é uma exímia lutadora de Taekwondo, que irá para Coréia defender o Brasil. Tudo dando certo, ela irá para a próxima Olimpíada! Ela é filha do mestre Marcos Teis.
+								Queremos falar sem meias palavras. As olimpíadas foram adiadas. O <a href="https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2020" target="_blank">seguinte link</a> transmite: "Em 30 de março de 2020, foram definidas as novas datas: 23 de julho a 8 de agosto de 2021". O Covid-19 teve impacto em praticamente tudo no mundo. As Olimp&iacute;adas afetadas.
 								Claro que deixar a academia impecável para os treinos e o bem estar dos nossos alunos é importante. Mas isto fazemos naturalmente. Digo, o mestre faz :)
 								A Sabrina existe, não é um golpe. Abaixo algumas fotos dela:
 							</div>
@@ -79,7 +80,7 @@
 		</div>
 		<div class="slider">
 			<ul>
-				<li><img src="images/sabrina/sabrina2.jpg"/></li>
+				<li><img src="images/sabrina/sabrinlaa/2.jpg"/></li>
 				<li><img src="images/sabrina/sabrina3.jpg"/></li>
 				<li><img src="images/sabrina/sabrina4.jpg"/></li>				
 				<li><img src="images/sabrina/sabrina5.jpg"/></li>

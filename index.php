@@ -57,7 +57,8 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-7">
-								<h2>A academia Teis é um ambiente familiar, onde treinamos artes marciais, com o ojetivo de formar campeões na vida e nos esportes</h2>
+								<h2>Voltaram as aulas! Taekwondo começou em 13/07! <br><br>A academia Teis é um ambiente familiar, onde treinamos artes marciais, com o objetivo de formar campeões na vida e nos esportes</h2>
+								<marquee class="destaque">Novo horário de Taekwondo, sábado às 16:00. Sábado de manhã e os demais horários continuam. Sem cobrança adicional.</marquee>
 							</div>
 						</div>
 					</div>
@@ -65,7 +66,6 @@
 			</div>
 		</div>
 		<!-- end:fh5co-hero -->
-                <marquee><a href="live.php">Live no Facebook</a></marquee>
 		<div id="fh5co-schedule-section" class="fh5co-lightgray-section">
 			<div class="container">
 				<div class="row">
@@ -151,6 +151,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center fh5co-table">
 						<div class="fh5co-intro fh5co-table-cell animate-box">
+                            <a href="trainning-day.php" class="link-trainning-day">Trainning day!</a>
 							<h1 class="text-center">Ritmo e resultado</h1>
 							<p>Isso você quem decide. Ninguém falará para você fazer mais exercícios quando estiver cansado ou com sede. Você decide o ritmo, o que influenciará nos resultados.</p>
 						</div>
@@ -249,8 +250,8 @@
 					<div class="col-md-7 animate-box">
 						<div class="price-box animate-box">
 							<h2 class="pricing-plan">1 modalidade</h2>
-							<div class="price"><sup class="currency">$</sup>120,00<small>/mês</small></div>
-							<p>Neste plano você escolhe 1 modalidade. Muay Thai e Jiu-Jitsu por R$89,99 por mês. De R$720,00 por R$599,00 no plano semestral.</p>
+							<div class="price"><sup class="currency">$</sup>130,00<small>/mês</small></div>
+							<p>Neste plano você escolhe 1 modalidade. Muay Thai e Jiu-Jitsu por R$99,99 por mês. De R$720,00 por R$599,00 no plano semestral.</p>
 						</div>
 					</div>
 
@@ -273,7 +274,7 @@
 					<div class="row">
 						<div class="col-md-4 animate-box">
 							<h3 class="section-title">Sobre nós</h3>
-							<p>Na academia Teis gostamos de nos divertir e treinar. Vamos no seu ritmo. E buscamos os resultados que quer. Estamos próximos ao Shopping Anália Franco e a escola Kennedy, na Vila Formosa, zona leste de São Paulo.</p>
+							<p>Na academia Teis gostamos de nos divertir e treinar. Vamos no seu ritmo. E buscamos os resultados que quer. Estamos próximos ao Shopping Anália Franco e à escola Kennedy, na Vila Formosa, zona leste de São Paulo.</p>
 						</div>
 
 						<div class="col-md-4 animate-box">

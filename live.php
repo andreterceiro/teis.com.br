@@ -67,7 +67,7 @@
 					<div class="row">
 						<div class="col-md-12 animate-box">
 							<div class="row" style="font-family: Roboto, Arial, sans-serif !important">
-								Em 28/05/2020, às 20:00, faremos uma live com os mestres da região. <a target="_blank" href="https://www.facebook.com/marcos.teis.7">Clique aqui para acessar o perfil do mestre no Facebook</a>. 
+								Já tivemos algumas lives. Quando acontecer outra, avisaremos. <a target="_blank" href="https://www.facebook.com/marcos.teis.7">Clique aqui para acessar o perfil do mestre no Facebook. Ele posta lá</a>. 
 							</div>
 						</div>
 					</div>
@@ -75,6 +75,7 @@
 		</div>
 		<!-- END fh5co-contact -->
 		
+                <div id="ytplayer"></div>
 		
 		<footer>
 			<div class="row copy-right" style="background-color: #222831; border-top: 1px solid rgba(255, 255, 255, 0.1)">
@@ -103,6 +104,27 @@
 	  gtag('config', 'UA-143754760-1');
 	</script>
 
+        <script>
+           // Load the IFrame Player API code asynchronously.
+           var tag = document.createElement('script');
+           tag.src = "https://www.youtube.com/player_api";
+           var firstScriptTag = document.getElementsByTagName('script')[0];
+           firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+           // Replace the 'ytplayer' element with an <iframe> and
+           // YouTube player after the API code downloads.
+            var player;
+            function onYouTubePlayerAPIReady() {
+                player = new YT.Player(
+                    'ytplayer', 
+                    {
+                        height: '360',
+                        width: '640',
+                        videoId: 'pULgCVD_Mzw'
+                    }
+           	)
+	    }
+        </script>
 
 	<?php require_once("javascript.php"); ?>
 	</body>

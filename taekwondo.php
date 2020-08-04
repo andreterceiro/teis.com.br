@@ -40,7 +40,7 @@
 				<div class="container">
 					<div class="nav-header">
 						<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
-						<h1><a href="index.php"><img  <?php if ($firefox && !$mobíle) { echo 'style="margin-left: -500px "' ;} elseif(! $mobile) { echo 'style="margin-left: -800px "' ;} ?> src="images/logo2.png" /></a></h1>
+						<h1><a href="index.php"><img  <?php if ($firefox && !$mobile) { echo 'style="margin-left: -500px "' ;} elseif(! $mobile) { echo 'style="margin-left: -800px "' ;} ?> src="images/logo2.png" /></a></h1>
 						<!-- START #fh5co-menu-wrap -->
 						<nav id="fh5co-menu-wrap" role="navigation">
 							<?php require_once("menu.php"); ?>
@@ -63,108 +63,27 @@
 			</div>
 		</div><!-- end: fh5co-parallax -->
 		<!-- end:fh5co-hero -->
+		<marquee class="destaque">Novo horário para treino: sábado às 16:00. Continuam existindo os treinos de sábado de manhã e os treinos de segunda-feira, quarta-feira e sexta-feira!</marquee>
 		<div id="fh5co-contact">
-			<div class="container">
+			<div class="container">					
 					<div class="row">
 						<div class="col-md-12 animate-box">
 							<div class="row" style="font-family: Roboto, Arial, sans-serif !important">
 								Sou suspeito para falar. Adoro a aula, tanto a do professor Anderson quanto a do mestre Marcos. Novamente: o intuito da academia não é apenas ensinar golpes de artes marciais. Aqui nós nos divertimos muito! Venha fazer parte desta família!
+								<br /><br />
+								Para melhorar sua experiência no site, deixando a página mais rápida, decidimos colocar o conteúdo em uma página externa. Os links abrirão em uma nova aba/janela:
+								<ul>
+								    <li><a href="taekwondo_fotos_1.php" target="_blank">Parte 1 das fotos</a></li>
+								    <li><a href="taekwondo_fotos_2.php" target="_blank">Parte 2 das fotos</a></li>
+								    <li><a href="taekwondo_fotos_3.php" target="_blank">Parte 3 das fotos</a></li>
+								    <li><a href="taekwondo_videos_1.php" target="_blank">Parte 1 dos vídeos</a></li>
+								    <li><a href="taekwondo_videos_2.php" target="_blank">Parte 2 dos vídeos</a></li>
+								</ul>
 							</div>
 						</div>
 					</div>
 			</div>
 		</div>
-		
-		<div class="slider">
-			<ul>
-		    	<li><img src="images/taekwondo/taekwondo9.jpg"/></li>
-				<li><img src="images/taekwondo/ney.jpg"/></li>
-				<li><img src="images/taekwondo/time.jpg"/></li>
-				<li><img src="images/taekwondo/time2.jpg"/></li>
-				<li><img src="images/taekwondo/time4.jpg"/></li>
-				<li><img src="images/taekwondo/sabrina.jpg"/></li>
-				<li><img src="images/taekwondo/time3.jpg"/></li>
-				<li><img src="images/taekwondo/aniversario1.jpg"/></li>
-				<li><img src="images/taekwondo/aniversario2.jpg"/></li>
-				<li><img src="images/taekwondo/marcao2.jpg"/></li>
-				<!--<li><img src="images/taekwondo/gui1.jpg"/></li>-->
-				<li><img src="images/taekwondo/campeonato1.jpg"/></li>
-				<li><img src="images/taekwondo/time5.jpg"/></li>
-				<li><img src="images/taekwondo/medalhas.jpg"/></li>
-			</ul>
-		</div>
-
-	<div id="ytplayer"></div><br />
-	<div id="ytplayer2"></div><br />
-	<div id="ytplayer3"></div><br />
-	<div id="ytplayer4"></div><br />
-	<div id="ytplayer5"></div><br />
-	<div id="ytplayer6"></div><br />
-	<div id="ytplayer7"></div><br />
-	<div id="ytplayer8"></div><br />
-			
-	<script>
-		// Load the IFrame Player API code asynchronously.
-		var tag = document.createElement('script');
-		tag.src = "https://www.youtube.com/player_api";
-		var firstScriptTag = document.getElementsByTagName('script')[0];
-		firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-		// Replace the 'ytplayer' element with an <iframe> and
-		// YouTube player after the API code downloads.
-		var player;
-		function onYouTubePlayerAPIReady() {
-			player = new YT.Player('ytplayer', {
-			height: '360',
-			width: '640',
-			videoId: 'VmGozizMsxQ'
-			});
-			
-			player2 = new YT.Player('ytplayer2', {
-			height: '360',
-			width: '640',
-			videoId: 'dtel_jMbFiQ'
-			});
-
-			player3 = new YT.Player('ytplayer3', {
-			height: '360',
-			width: '640',
-			videoId: 'UIJ5d73ZNhk'
-			});
-
-			player4 = new YT.Player('ytplayer4', {
-			height: '360',
-			width: '640',
-			videoId: 'iRb0aqNQreo'
-			});
-
-			player5 = new YT.Player('ytplayer5', {
-			height: '360',
-			width: '640',
-			videoId: '-bdzb7vJ-7M'
-			});
-			
-			player6 = new YT.Player('ytplayer6', {
-			height: '360',
-			width: '640',
-			videoId: '2I6xYqKA4Cs'
-			});
-			
-			player7 = new YT.Player('ytplayer7', {
-			height: '360',
-			width: '640',
-			videoId: 'H10D_yQ5Jvg'
-			});
-			
-			player8 = new YT.Player('ytplayer8', {
-			height: '360',
-			width: '640',
-			videoId: '5barNBg3Yd8'
-			});
-		}
-	</script>
-<br /><br />
-	
 		
 		<!-- END fh5co-contact -->
 		<footer>
@@ -183,21 +102,19 @@
 	</div>
 	<!-- END fh5co-wrapper -->
 	<?php require_once("javascript.php"); ?>
-		<script>
-			$('.slider').carousel({dots: true, infinite: true, speed: 200});
-		</script>
-		
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143754760-1"></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
+	<script>
+		$('.slider').carousel({dots: true, infinite: true, speed: 200});
+	</script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143754760-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
 
-			gtag('config', 'UA-143754760-1');
-		</script>
+		gtag('config', 'UA-143754760-1');
+	</script>
 
 	</body>
 </html>
-
-

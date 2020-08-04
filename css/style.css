@@ -1,3 +1,13 @@
+a.link-trainning-day{
+    color: #FFF;
+    font-size: 30px;
+    text-decoration: underline;
+}
+.destaque {
+    color: #F00;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
 @font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
@@ -154,8 +164,8 @@ figure {
   }
 }
 .fh5co-cover .desc h2 {
-  color: #fff;
-  font-size: 55px;
+  color: #FFF;
+  font-size: 38px;
   font-weight: 300;
   margin-bottom: 10px;
   line-height: 60px;
@@ -163,8 +173,8 @@ figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover .desc h2 {
-    font-size: 40px;
     line-height: 50px;
+    font-size: 36px;
   }
 }
 .fh5co-cover .desc span {
@@ -1389,4 +1399,16 @@ figure {
 marquee a{
     font-size: 25px;
     color: #FF0000;
+}
+
+.roundabout-prev {
+	border: 26px solid #880000;
+	background-color: #880000 !important;
+}
+
+.roundabout-next {
+	border: 40px solid #880000;
+	background-color: #880000 !important;
+	border-right: 26px !important;
+	
 }
