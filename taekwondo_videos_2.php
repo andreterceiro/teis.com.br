@@ -88,7 +88,9 @@
 		<div id="ytplayer22"></div><br />
 		<div id="ytplayer23"></div><br />
 		<div id="ytplayer24"></div><br />
-		
+		<div id="ytplayer25"></div><br />
+		<div id="ytplayer26"></div><br />
+
 		<script>
 			// Load the IFrame Player API code asynchronously.
 			var tag = document.createElement('script');
@@ -170,12 +172,25 @@
 				width: '640',
 				videoId: 'WPsMBtpEZWg'
 				});
-				
+
 				var player24 = new YT.Player('ytplayer24', {
 				height: '360',
 				width: '640',
-				videoId: 'WPsMBtpEZWg'
+				videoId: 'sNOjirNR0Pw'
 				});
+
+				var player25 = new YT.Player('ytplayer25', {
+				height: '360',
+				width: '640',
+				videoId: 'USJOtQJqNTM'
+				});
+
+				var player26 = new YT.Player('ytplayer26', {
+				height: '360',
+				width: '640',
+				videoId: 'rHZE4vwceG8'
+				});
+
 			}
 		</script>
 		
