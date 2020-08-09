@@ -82,10 +82,11 @@
 				<li><img src="images/taekwondo/sabrina2.jpg"/></li>
 				<li><img src="images/taekwondo/sabrina3.jpg"/></li>
 				<li><img src="images/taekwondo/marcao-e-sabrina1.jpg"/></li>
-				<li><img src="images/taekwondo/aula1.jpg?a=1"/></li>
-				<li><img src="images/taekwondo/marcao6.jpg?a=1"/></li>
+				<li><img src="images/taekwondo/aula1.jpg"/></li>
+				<li><img src="images/taekwondo/marcao6.jpg"/></li>
 				<li><img src="images/covid/taekwondo1.jpg"/></li>
-				<li><img src="images/covid/taekwondo2.jpg"/></li>				
+				<li><img src="images/covid/taekwondo2.jpg"/></li>
+				<li><img src="images/taekwondo/crianca6.jpg"/></li>				
 			</ul>	
 		</div>
 		
