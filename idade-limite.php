@@ -110,6 +110,7 @@
 				<li><img src="images/taekwondo/marcao-e-criancas2.jpg"/></li>				
 				<li><img src="images/taekwondo/marcao-e-criancas4.jpg"/></li>	
 				<li><img src="images/taekwondo/marcao-e-criancas5.jpg"/></li>
+				<li><img src="images/taekwondo/crianca6.jpg"/></li>				
 			</ul>
 		</div>		
 		<div id="ytplayer"></div><br />
