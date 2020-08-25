@@ -86,7 +86,9 @@
 				<li><img src="images/taekwondo/marcao6.jpg"/></li>
 				<li><img src="images/covid/taekwondo1.jpg"/></li>
 				<li><img src="images/covid/taekwondo2.jpg"/></li>
-				<li><img src="images/taekwondo/crianca6.jpg?a=1"/></li>
+				<li><img src="images/taekwondo/crianca6.jpg"/></li>
+				<li><img src="images/taekwondo/time14.jpg"/></li>
+				<li><img src="images/taekwondo/time15.jpg"/></li>
 			</ul>	
 		</div>
 		
