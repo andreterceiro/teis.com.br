@@ -90,6 +90,7 @@
 		<div id="ytplayer24"></div><br />
 		<div id="ytplayer25"></div><br />
 		<div id="ytplayer26"></div><br />
+		<div id="ytplayer27"></div><br />
 
 		<script>
 			// Load the IFrame Player API code asynchronously.
@@ -191,6 +192,11 @@
 				videoId: 'rHZE4vwceG8'
 				});
 
+				var player27 = new YT.Player('ytplayer27', {
+				height: '360',
+				width: '640',
+				videoId: 'NEgUoU6t7gA'
+				});
 			}
 		</script>
 		
