@@ -93,7 +93,8 @@
 		<div>
 		    Vídeos do Facebook:
 		    <ul>
-		        <li><a href="https://www.facebook.com/marcos.teis.7/videos/1167596036705865/" target="_blank"/>https://www.facebook.com/marcos.teis.7/videos/1167596036705865/</a></li>
+		        <li><a href="https://www.facebook.com/marcos.teis.7/videos/1167596036705865/" target="_blank" />https://www.facebook.com/marcos.teis.7/videos/1167596036705865/</a></li>
+		        <li><a href="https://m.facebook.com/story.php?story_fbid=1262989830499818&id=100003664402294&sfnsn=wiwspwa&extid=GZzEJ3RoSxpNfH9Q" target="_blank" />https://m.facebook.com/story.php?story_fbid=1262989830499818&id=100003664402294&sfnsn=wiwspwa&extid=GZzEJ3RoSxpNfH9Q</a></li>
 		    </ul>
 		</div>
 		<script>
