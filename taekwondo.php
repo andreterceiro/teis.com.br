@@ -63,7 +63,7 @@
 			</div>
 		</div><!-- end: fh5co-parallax -->
 		<!-- end:fh5co-hero -->
-		<marquee class="destaque">Novo horário para treino: sábado às 16:00. Continuam existindo os treinos de sábado de manhã e os treinos de segunda-feira, quarta-feira e sexta-feira!</marquee>
+		<marquee class="destaque">Novos horários para treino: sábado às 16:00 e segunda-feira, quarta-feira e sexta-feira às 17:30. Continuam existindo os treinos de sábado de manhã e os treinos de segunda-feira, quarta-feira e sexta-feira! Sem cobrança adicional.</marquee>
 		<div id="fh5co-contact">
 			<div class="container">					
 					<div class="row">
