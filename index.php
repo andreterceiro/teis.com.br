@@ -58,7 +58,7 @@
 						<div class="row">
 							<div class="col-md-7">
 								<h2>Voltaram as aulas! Taekwondo começou em 13/07! <br><br>A academia Teis é um ambiente familiar, onde treinamos artes marciais, com o objetivo de formar campeões na vida e nos esportes</h2>
-								<marquee class="destaque">Novo horário de Taekwondo, sábado às 16:00. Sábado de manhã e os demais horários continuam. Sem cobrança adicional.</marquee>
+								<marquee class="destaque">Novos horários de Taekwondo, sábado às 16:00 e segunda-feira, quarta-feira e sexta-feira às 17:30. Sábado de manhã e os demais horários continuam. Sem cobrança adicional.</marquee>
 							</div>
 						</div>
 					</div>
@@ -94,7 +94,7 @@
 								<div class="col-md-12 col-sm-6">
 									<div class="program program-schedule">
 										<h3>Taekwondo e Jiu Jitsu</h3>
-										<span style="font-family: Roboto, Arial, sans-serif !important">Segunda é dia de Taekwondo (2 horários, 18:30 e 20:30) e Jiu Jitsu (19:30)</span>
+										<span style="font-family: Roboto, Arial, sans-serif !important">Segunda é dia de Taekwondo (3 horários, 17:30 18:30 e 20:30) e Jiu Jitsu (19:30)</span>
 									</div>
 								</div>
 							</div>	
@@ -134,7 +134,7 @@
 								<div class="col-md-12 col-sm-6">
 									<div class="program program-schedule">
 										<h3>Taekwondo</h3>
-										<span style="font-family: Roboto, Arial, sans-serif !important">No sábado temos um treino de Taekwondo das 10~10:30 até 12:00</span>
+										<span style="font-family: Roboto, Arial, sans-serif !important">No sábado temos 2 treinos de Taekwondo das 10~10:30 até 12:00 e das 16:30 até 17:30, um treino com foco no exame.</span>
 									</div>
 								</div>
 							</div>
