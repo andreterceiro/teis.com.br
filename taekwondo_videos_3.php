@@ -68,7 +68,7 @@
 				<div class="row">
 					<div class="col-md-12 animate-box">
 						<div class="row" style="font-family: Roboto, Arial, sans-serif !important">
-							Nossos vídeos de Taekwondo - parte 1
+							Nossos vídeos de Taekwondo - parte 3
 						</div>
 					</div>
 				</div>
@@ -78,16 +78,6 @@
 		<div id="ytplayer"></div><br />
 		<div id="ytplayer2"></div><br />
 		<div id="ytplayer3"></div><br />
-		<div id="ytplayer4"></div><br />
-		<div id="ytplayer5"></div><br />
-		<div id="ytplayer6"></div><br />
-		<div id="ytplayer7"></div><br />
-		<div id="ytplayer8"></div><br />
-		<div id="ytplayer9"></div><br />
-		<div id="ytplayer10"></div><br />
-		<div id="ytplayer11"></div><br />
-		<div id="ytplayer12"></div><br />
-		
 		<br />
 		
 		<div>
@@ -111,74 +101,21 @@
 				player = new YT.Player('ytplayer', {
 				height: '360',
 				width: '640',
-				videoId: 'VmGozizMsxQ'
+				videoId: 'U7QaqcendXs'
 				});
 				
 				player2 = new YT.Player('ytplayer2', {
 				height: '360',
 				width: '640',
-				videoId: 'dtel_jMbFiQ'
+				videoId: 'qoWTFqa6T7M'
 				});
 
 				player3 = new YT.Player('ytplayer3', {
 				height: '360',
 				width: '640',
-				videoId: 'UIJ5d73ZNhk'
+				videoId: 'i5bc5MgSRmk'
 				});
 
-				player4 = new YT.Player('ytplayer4', {
-				height: '360',
-				width: '640',
-				videoId: 'iRb0aqNQreo'
-				});
-
-				player5 = new YT.Player('ytplayer5', {
-				height: '360',
-				width: '640',
-				videoId: '-bdzb7vJ-7M'
-				});
-				
-				player6 = new YT.Player('ytplayer6', {
-				height: '360',
-				width: '640',
-				videoId: '2I6xYqKA4Cs'
-				});
-				
-				player7 = new YT.Player('ytplayer7', {
-				height: '360',
-				width: '640',
-				videoId: 'H10D_yQ5Jvg'
-				});
-				
-				player8 = new YT.Player('ytplayer8', {
-				height: '360',
-				width: '640',
-				videoId: '5barNBg3Yd8'
-				});
-				
-				player9 = new YT.Player('ytplayer9', {
-				height: '360',
-				width: '640',
-				videoId: 'UUQ7cTMV_Bs'
-				});
-				
-				player10 = new YT.Player('ytplayer10', {
-				height: '360',
-				width: '640',
-				videoId: 'sjj2P_pYQLI'
-				});
-				
-				player11 = new YT.Player('ytplayer11', {
-				height: '360',
-				width: '640',
-				videoId: 'lqu2JsYDMxU'
-				});
-				
-				player12 = new YT.Player('ytplayer12', {
-				height: '360',
-				width: '640',
-				videoId: 'hLT9sC3h_gc'
-				});
 			}
 		</script>
 		
