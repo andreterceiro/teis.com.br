@@ -80,7 +80,7 @@
 		</div>
 		<div class="slider">
 			<ul>
-				<li><img src="images/sabrina/sabrinlaa/2.jpg"/></li>
+				<li><img src="images/sabrina/sabrina2.jpg"/></li>
 				<li><img src="images/sabrina/sabrina3.jpg"/></li>
 				<li><img src="images/sabrina/sabrina4.jpg"/></li>				
 				<li><img src="images/sabrina/sabrina5.jpg"/></li>
