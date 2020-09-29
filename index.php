@@ -101,8 +101,8 @@
 							<div class="schedule-content" data-day="tuesday">	
 								<div class="col-md-12 col-sm-6">
 									<div class="program program-schedule">
-							        	<h3>Kung-Fu e Muay Thai</h3>
-							        	<span style="font-family: Roboto, Arial, sans-serif !important">Na terça temos Kung-Fu às 19:00 e Muay Thai 20:30</span>
+							        	<h3>Muay Thai</h3>
+							        	<span style="font-family: Roboto, Arial, sans-serif !important">Na terça temos Muay Thai às 20:30</span>
 									</div>
 								</div>
 							</div>
@@ -117,8 +117,8 @@
 							<div class="schedule-content" data-day="thursday">
 								<div class="col-md-12 col-sm-6">
 									<div class="program program-schedule">
-										<h3>Kung-Fu e Muay Thai</h3>
-										<span style="font-family: Roboto, Arial, sans-serif !important">Na quinta ocorrem as mesmas aulas de terça, nos mesmos horaŕios</span>
+										<h3>Muay Thai</h3>
+										<span style="font-family: Roboto, Arial, sans-serif !important">Na quinta temos novamente Muay Thai, no mesmo horaŕio de terça-feira</span>
 									</div>
 								</div>
 							</div>
@@ -192,19 +192,6 @@
 									<p class="fh5co-social-icons">
 										<a href="https://www.facebook.com/anderson.teis"><i class="icon-facebook-with-circle"></i></a>
 										<a href="https://www.instagram.com/anderson_teis"><i class="icon-instagram-with-circle"></i></a>
-									</p>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-6">
-						<div class="team-section-grid animate-box" style="background-image: url(images/welton-vagner.png);">
-							<div class="overlay-section">
-								<div class="desc">
-									<h3>Welton Wagner</h3>
-									<p>É o nosso professor de Kung-Fu, comandando uma excelente aula de terça e quinta!</p>
-									<p class="fh5co-social-icons">
-										<a href="https://www.facebook.com/welton.vagner.5"><i class="icon-facebook-with-circle"></i></a>
 									</p>
 								</div>
 							</div>
