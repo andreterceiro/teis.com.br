@@ -151,7 +151,6 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center fh5co-table">
 						<div class="fh5co-intro fh5co-table-cell animate-box">
-                            <a href="trainning-day.php" class="link-trainning-day">Trainning day!</a>
 							<h1 class="text-center">Ritmo e resultado</h1>
 							<p>Isso você quem decide. Ninguém falará para você fazer mais exercícios quando estiver cansado ou com sede. Você decide o ritmo, o que influenciará nos resultados.</p>
 						</div>
