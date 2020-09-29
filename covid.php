@@ -71,7 +71,7 @@
 								Sabemos do perigo que é o Covid-19. Estamos fazendo o que é prudente ser feito. 
 								Tatame muito limpo, limitação de alunos por horário, álcool em gel. Pense bem: 
 								de que adianta um aluno pagar um mês e morrer no outro, ou, mesmo se recuperando, 
-								ficar nervoso porque pegou Covid na academia. Naão voltará mais. Não queremos isto. 
+								ficar nervoso porque pegou Covid na academia. Não voltará mais. Não queremos isto. 
 								Além do mais, tem a condição humana. Os alunos são pessoas queridas. Não queremos o mal. 
 								Não só nesta academia voltaram as aulas. A academia contribui para pessoas com mais saúde.
 								Temos 2 horários do Taekwondo e foi feita <a target="_blank" href="http://www.teis.com.br/images/planilha.jpg">a seguinte planilha</a> para não termos problemas 
