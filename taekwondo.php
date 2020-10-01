@@ -63,7 +63,7 @@
 			</div>
 		</div><!-- end: fh5co-parallax -->
 		<!-- end:fh5co-hero -->
-		<marquee class="destaque">Novo horário para treino: sábado às 16:00. Continuam existindo os treinos de sábado de manhã e os treinos de segunda-feira, quarta-feira e sexta-feira!</marquee>
+		<marquee class="destaque">Novo horário para treino: sábado às 16:00. Continuam existindo os treinos de sábado de manhã e os treinos de segunda-feira, quarta-feira e sexta-feira! Taekwondo kids às 18:30 nas segundas, quartas e sextas-feiras!</marquee>
 		<div id="fh5co-contact">
 			<div class="container">					
 					<div class="row">

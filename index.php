@@ -58,7 +58,7 @@
 						<div class="row">
 							<div class="col-md-7">
 								<h2>Voltaram as aulas! Taekwondo começou em 13/07! <br><br>A academia Teis é um ambiente familiar, onde treinamos artes marciais, com o objetivo de formar campeões na vida e nos esportes</h2>
-								<marquee class="destaque">Novo horário de Taekwondo, sábado às 16:00. Sábado de manhã e os demais horários continuam. Sem cobrança adicional.</marquee>
+								<marquee class="destaque">Novo horário de Taekwondo, sábado às 16:00. Sábado de manhã e os demais horários continuam. Sem cobrança adicional. Taekwondo kids às 18:30 (segundas, quartas e sextas-feiras)!</marquee>
 							</div>
 						</div>
 					</div>
