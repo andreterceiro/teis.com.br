@@ -91,7 +91,6 @@
 				<li><img src="images/taekwondo/campeonato1.jpeg"/></li>
 				<li><img src="images/taekwondo/time5.jpeg"/></li>
 				<li><img src="images/taekwondo/medalhas.jpeg"/></li>
-				<li><img src="images/taekwondo/criancas1.jpeg"/></li>
 				<li><img src="images/taekwondo/decathlon1.jpeg"/></li>
 				<li><img src="images/taekwondo/ney-amarela.jpg"/></li>
 			</ul>

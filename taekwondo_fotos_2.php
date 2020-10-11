@@ -78,10 +78,8 @@
 		
 		<div class="slider">
 			<ul>
-				<li><img src="images/taekwondo/gui1.jpeg"/></li>
 				<li><img src="images/taekwondo/marcao3.jpeg"/></li>				
 				<li><img src="images/taekwondo/marcao4.jpeg"/></li>				
-				<li><img src="images/taekwondo/marcao-e-crianca1.jpeg"/></li>
 				<li><img src="images/taekwondo/mauricio1.jpeg"/></li>
 				<li><img src="images/taekwondo/time9.jpeg"/></li>
 				<li><img src="images/taekwondo/time8.jpeg"/></li>
@@ -89,7 +87,6 @@
 				<li><img src="images/taekwondo/time11.jpeg"/></li>
 				<li><img src="images/taekwondo/time13.jpeg"/></li>
 				<li><img src="images/taekwondo/trofeus1.jpeg"/></li>								
-				<li><img src="images/taekwondo/luizinha1.jpeg"/></li>								
 				<li><img src="images/taekwondo/familia1.jpeg"/></li>
 				<li><img src="images/taekwondo/jornal1.jpeg"/></li>
 				<li><img src="images/taekwondo/ney2.jpeg"/></li>
