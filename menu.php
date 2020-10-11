@@ -7,6 +7,7 @@
 									    <li><a href="jiu-jitsu.php">Jiu-jitsu</a></li>
 									    <li><a href="muay-thai.php">Muay Thai</a></li>
 									    <li><a href="taekwondo.php">Taekwondo</a></li>
+									    <li><a href="ginastica-funcional.php">Ginástica funcional</a></li>
 								    </ul>
 								</li>
 								<li><a href="fotos.php">Fotos</a></li>
