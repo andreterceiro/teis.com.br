@@ -93,8 +93,8 @@
 							<div class="schedule-content active" data-day="monday">
 								<div class="col-md-12 col-sm-6">
 									<div class="program program-schedule">
-										<h3>Taekwondo e Jiu Jitsu</h3>
-										<span style="font-family: Roboto, Arial, sans-serif !important">Segunda é dia de Taekwondo (3 horários, 17:30 18:30 e 20:30) e Jiu Jitsu (19:30)</span>
+										<h3>Taekwondo, Jiu Jitsu e ginástica funcional</h3>
+									<span style="font-family: Roboto, Arial, sans-serif !important">Segunda é dia de Taekwondo (3 horários, 17:30 18:30 e 20:30) e Jiu Jitsu (19:30). Temos também treino de ginástica funcional às 14:30.</span>
 									</div>
 								</div>
 							</div>	
@@ -109,8 +109,8 @@
 							<div class="schedule-content" data-day="wednesday">
 								<div class="col-md-12 col-sm-6">
 									<div class="program program-schedule">
-										<h3>Taekwondo e Jiu-Jitsu</h3>
-										<span style="font-family: Roboto, Arial, sans-serif !important">Na quarta é novamente dia de Jiu Jitsu e Taekwondo, nos mesmos horáros de segunda</span>
+										<h3>Taekwondo, Jiu-Jitsu e ginástica funcional</h3>
+										<span style="font-family: Roboto, Arial, sans-serif !important">Na quarta é novamente dia de Jiu Jitsu e Taekwondo, nos mesmos horáros de segunda. Temos também treino de ginástica funcional às 14:30.</span>
 									</div>
 								</div>
 							</div>
@@ -125,8 +125,8 @@
 							<div class="schedule-content" data-day="friday">	
 								<div class="col-md-12 col-sm-6">
 									<div class="program program-schedule">
-											<h3>Taekwondo e Jiu-Jitsu</h3>
-										<span style="font-family: Roboto, Arial, sans-serif !important">Na sexta é novamente dia de Jiu Jitsu e Taekwondo, nos mesmos horáros de segunda</span>
+											<h3>Taekwondo, Jiu-Jitsu e ginástica funcional</h3>
+										<span style="font-family: Roboto, Arial, sans-serif !important">Na sexta é novamente dia de Jiu Jitsu e Taekwondo, nos mesmos horáros de segunda. Temos também treino de ginástica funcional às 14:30.</span>
 									</div>
 							    </div>		
 							</div>
@@ -215,6 +215,26 @@
 								<div class="desc">
 									<h3>Marcelo</h3>
 									<p>O professor Marcelo comanda uma boa aula de Muay Thai. Ele, como os outros professores, sempre respeita o ritmo dos alunos. Nada de se machucar hein?</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="team-section-grid animate-box" style="background-image: url(images/celia.jpg);">
+							<div class="overlay-section">
+								<div class="desc">
+									<h3>Celia Reis</h3>
+									<p>É faixa preta de Taekwondo e comanda a aula do Taekwondo Kids. È querida e respeitada por todos na academia.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="team-section-grid animate-box" style="background-image: url(images/taekwondo/sabrina3.jpg);">
+							<div class="overlay-section">
+								<div class="desc">
+									<h3>Sabrina Teis</h3>
+									<p>É atleta da seleção brasileira, o que se sabe que demanda muito esforço. Ela comanda a aula de ginástica funcional. Ela é faixa preta de Taekwondo.</p>
 								</div>
 							</div>
 						</div>
