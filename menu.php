@@ -5,7 +5,6 @@
 								    <a href="#" class="fh5co-sub-ddown">Aulas</a>
 								    <ul class="fh5co-sub-menu">
 									    <li><a href="jiu-jitsu.php">Jiu-jitsu</a></li>
-									    <li><a href="kung-fu.php">Kung-fu</a></li>
 									    <li><a href="muay-thai.php">Muay Thai</a></li>
 									    <li><a href="taekwondo.php">Taekwondo</a></li>
 								    </ul>

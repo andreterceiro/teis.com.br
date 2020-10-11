@@ -28,7 +28,7 @@
 		}
 				
 		$firefox = false;
-2		if (strpos($_SERVER['HTTP_USER_AGENT'], 'irefox') > -1 ) {
+		if (strpos($_SERVER['HTTP_USER_AGENT'], 'irefox') > -1 ) {
 			$firefox=true;			
 		}
     ?>			
@@ -113,6 +113,9 @@
 					<p>Copyright 2016 Free Html5 <a href="#">'</a>. All Rights Reserved. <br>Made with <i class="icon-heart3"></i> by <a href="http://freehtml5.co/" target="_blank">Freehtml5.co</a> / Demo Images: <a href="https://unsplash.com/" target="_blank">Unsplash</a></p>
 				</div>
 			</div>
+			<?php
+		        require_once "footer.php";
+			?>
 		</footer>
 	</div>
 	<!-- END fh5co-page -->

@@ -214,6 +214,9 @@
 				</div>
 			</div>
 		</footer>
+		<?php
+			require_once "footer.php";
+		?>
 	</div>
 	<!-- END fh5co-page -->
 	</div>
