@@ -6,12 +6,12 @@
 	<head>
 		<link rel="shortcut icon" href="favicon.ico" />
 		<?php require_once("header.php"); ?>
-  <!-- 
+  <!--
 	//////////////////////////////////////////////////////
 
-	FREE HTML5 TEMPLATE 
+	FREE HTML5 TEMPLATE
 	DESIGNED & DEVELOPED by FREEHTML5.CO
-		
+
 	Website: 		http://freehtml5.co/
 	Email: 			info@freehtml5.co
 	Twitter: 		http://twitter.com/fh5co
@@ -24,14 +24,14 @@
 	<?php
 		$mobile = false;
 		if (strpos($_SERVER['HTTP_USER_AGENT'], 'obile') > -1 ) {
-			$mobile=true;			
+			$mobile=true;
 		}
-				
+
 		$firefox = false;
 		if (strpos($_SERVER['HTTP_USER_AGENT'], 'irefox') > -1 ) {
-			$firefox=true;			
+			$firefox=true;
 		}
-	?>				
+	?>
 	<body>
 		<div id="fh5co-wrapper">
 		<div id="fh5co-page">
@@ -47,7 +47,7 @@
 						</nav>
 					</div>
 				</div>
-			</header>		
+			</header>
 		</div>
 		<!-- end:fh5co-header -->
 		<div class="fh5co-hero">
@@ -57,8 +57,8 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-7">
-								<h2>Voltaram as aulas! Taekwondo começou em 13/07! <br><br>A academia Teis é um ambiente familiar, onde treinamos artes marciais, com o objetivo de formar campeões na vida e nos esportes</h2>
-								<marquee class="destaque">Novo horário de Taekwondo, sábado às 16:00. Sábado de manhã e os demais horários continuam. Sem cobrança adicional.</marquee>
+								<h2>Voltaram as aulas! Taekwondo começou em 13/07! <br /><br />A academia Teis é um ambiente familiar, onde treinamos artes marciais, com o objetivo de formar campeões na vida e nos esportes</h2>
+								<marquee class="destaque">Novo horário de Taekwondo, segundas, quartas e sextas-feiras às 22:30. Sábado de manhã, à tarde e os demais horários continuam. Sem cobrança adicional. Taekwondo kids às 18:30 (segundas, quartas e sextas-feiras)!</marquee>
 							</div>
 						</div>
 					</div>
@@ -87,18 +87,18 @@
 						</ul>
 					</div>
 					<div class="row text-center">
-	
+
 						<div class="col-md-12 schedule-container">
 
 							<div class="schedule-content active" data-day="monday">
 								<div class="col-md-12 col-sm-6">
 									<div class="program program-schedule">
 										<h3>Taekwondo e Jiu Jitsu</h3>
-										<span style="font-family: Roboto, Arial, sans-serif !important">Segunda é dia de Taekwondo (2 horários, 18:30 e 20:30) e Jiu Jitsu (19:30)</span>
+										<span style="font-family: Roboto, Arial, sans-serif !important">Segunda é dia de Taekwondo (4 horários, 17:30, 18:30, 20:30 e 22:30) e Jiu Jitsu (19:30)</span>
 									</div>
 								</div>
-							</div>	
-							<div class="schedule-content" data-day="tuesday">	
+							</div>
+							<div class="schedule-content" data-day="tuesday">
 								<div class="col-md-12 col-sm-6">
 									<div class="program program-schedule">
 							        	<h3>Muay Thai</h3>
@@ -122,23 +122,23 @@
 									</div>
 								</div>
 							</div>
-							<div class="schedule-content" data-day="friday">	
+							<div class="schedule-content" data-day="friday">
 								<div class="col-md-12 col-sm-6">
 									<div class="program program-schedule">
 											<h3>Taekwondo e Jiu-Jitsu</h3>
 										<span style="font-family: Roboto, Arial, sans-serif !important">Na sexta é novamente dia de Jiu Jitsu e Taekwondo, nos mesmos horáros de segunda</span>
 									</div>
-							    </div>		
+							    </div>
 							</div>
-							<div class="schedule-content" data-day="saturday">	
+							<div class="schedule-content" data-day="saturday">
 								<div class="col-md-12 col-sm-6">
 									<div class="program program-schedule">
 										<h3>Taekwondo</h3>
-										<span style="font-family: Roboto, Arial, sans-serif !important">No sábado temos um treino de Taekwondo das 10~10:30 até 12:00</span>
+										<span style="font-family: Roboto, Arial, sans-serif !important">No sábado temos um treino de Taekwondo das 10~10:30 até 12:00 e das 16:30 até as 18:00</span>
 									</div>
 								</div>
 							</div>
-							
+
 							<!-- END sched-content -->
 						</div>
 					</div>
@@ -252,7 +252,7 @@
 				</div>
 			</div>
 		</div>
-		
+
 		<!-- fh5co-blog-section -->
 		<footer>
 			<div id="footer">
@@ -267,11 +267,11 @@
 							<h3 class="section-title">Nosso endereço</h3>
 							<ul class="contact-info">
 								<li><i class="icon-map-marker"></i>Rua Arcurui, 512</li>
-								<li><i class="icon-phone"></i>(11) 95142-6799, (11) 95175-0043 </li>	
+								<li><i class="icon-phone"></i>(11) 95142-6799, (11) 95175-0043 </li>
 								<li><i class="icon-envelope"></i><a href="#">marcos@teis.com.br</a></li>
 							</ul>
 						</div>
-						
+
 					</div>
 					<div class="row copy-right">
 						<div class="col-md-6 col-md-offset-3 text-center">
@@ -307,5 +307,3 @@
 	<?php REQUIRE_ONCE("javascript.php"); ?>
 	</body>
 </html>
-
-    
