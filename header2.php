@@ -15,7 +15,7 @@
 	<!-- Superfish -->
 	<link rel="stylesheet" href="css/superfish.css">
 
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/style.css?a=1">
 
     <!-- image slider -->
 	<link rel="stylesheet" type="text/css" href="css/roundabout.css"/>
